@@ -1,0 +1,9 @@
+{"variant": "12.1", "selected_hours": [7], "before": {"acc": 0.6545, "trades": 55}, "after": {"acc": 0.7368, "trades": 19}}
+{"variant": "12.2", "selected_hours": [6, 8], "before": {"acc": 0.6389, "trades": 72}, "after": {"acc": 0.6429, "trades": 42}}
+{"variant": "12.3", "selected_hours": [7], "before": {"acc": 0.6667, "trades": 57}, "after": {"acc": 0.7368, "trades": 19}}
+{"variant": "12.4", "selected_hours": [7], "before": {"acc": 0.6897, "trades": 58}, "after": {"acc": 0.7778, "trades": 18}}
+{"variant": "12.5", "selected_hours": [7], "before": {"acc": 0.6333, "trades": 60}, "after": {"acc": 0.7, "trades": 20}}
+{"variant": "12.6", "selected_hours": [7], "before": {"acc": 0.6604, "trades": 53}, "after": {"acc": 0.7059, "trades": 17}}
+{"variant": "12.7", "selected_hours": [8], "before": {"acc": 0.6441, "trades": 59}, "after": {"acc": 0.6579, "trades": 38}}
+{"variant": "12.8", "selected_hours": [7], "before": {"acc": 0.6481, "trades": 54}, "after": {"acc": 0.7368, "trades": 19}}
+{"variant": "12.9", "selected_hours": [7], "before": {"acc": 0.6667, "trades": 54}, "after": {"acc": 0.7778, "trades": 18}}

@@ -1,0 +1,158 @@
+[S19] EXEC GBPCAD_otc call try=3/3 stake=957.67 pay~84.0 fore=None
+42["orders/open",{"asset": "GBPCAD_otc", "amount": 957.6666666666667, "time": 60, "action": "call", "isDemo": 1, "tournamentId": 0, "requestId": 1756735744, "optionType": 100}]
+[S12][TRACE] ids post-buy: op_id=f528e59a-c679-4cc6-80be-8672266c7f8e ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=f528e59a-c679-4cc6-80be-8672266c7f8e
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |    Amt | Res   |       Δ |   Cum P/L |
+|-----|------------|-------|-------|--------|-------|---------|-----------|
+|   1 | GBPCAD_otc | CALL  |     1 | 200    | LOSS  | -200    |   -200    |
+|   2 | GBPCAD_otc | CALL  |     2 | 444.44 | LOSS  | -444.44 |   -644.44 |
+|   3 | GBPCAD_otc | CALL  |     3 | 957.67 | LOSS  | -957.67 |  -1602.11 |
+[S19] RecoverPool=1602.11 LossSignals=1
+[S19] EURUSD_otc call tt=11:22:00 eta=50s fore=None pay=None ignored=False reason=ok
+[S19] EXEC EURUSD_otc call try=1/3 stake=1936.38 pay~91.0 fore=None
+42["orders/open",{"asset": "EURUSD_otc", "amount": 1936.3846153846155, "time": 60, "action": "call", "isDemo": 1, "tournamentId": 0, "requestId": 1756736519, "optionType": 100}]
+[S12][TRACE] ids post-buy: op_id=6c2d1675-d9a2-475f-b5a1-93dab56ee3a0 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=6c2d1675-d9a2-475f-b5a1-93dab56ee3a0
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |     Amt | Res   |        Δ |   Cum P/L |
+|-----|------------|-------|-------|---------|-------|----------|-----------|       
+|   1 | GBPCAD_otc | CALL  |     1 |  200    | LOSS  |  -200    |   -200    |       
+|   2 | GBPCAD_otc | CALL  |     2 |  444.44 | LOSS  |  -444.44 |   -644.44 |       
+|   3 | GBPCAD_otc | CALL  |     3 |  957.67 | LOSS  |  -957.67 |  -1602.11 |       
+|   4 | EURUSD_otc | CALL  |     1 | 1936.38 | LOSS  | -1936.38 |  -3538.49 |       
+[S19] EXEC EURUSD_otc call try=2/3 stake=2000.00 pay~91.0 fore=None
+42["orders/open",{"asset": "EURUSD_otc", "amount": 2000.0, "time": 60, "action": "call", "isDemo": 1, "tournamentId": 0, "requestId": 1756736582, "optionType": 100}]   
+[S12][TRACE] ids post-buy: op_id=9392b96c-59be-450e-b376-d0dbeb2455f8 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=9392b96c-59be-450e-b376-d0dbeb2455f8
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |     Amt | Res   |        Δ |   Cum P/L |
+|-----|------------|-------|-------|---------|-------|----------|-----------|       
+|   1 | GBPCAD_otc | CALL  |     1 |  200    | LOSS  |  -200    |   -200    |       
+|   2 | GBPCAD_otc | CALL  |     2 |  444.44 | LOSS  |  -444.44 |   -644.44 |       
+|   3 | GBPCAD_otc | CALL  |     3 |  957.67 | LOSS  |  -957.67 |  -1602.11 |       
+|   4 | EURUSD_otc | CALL  |     1 | 1936.38 | LOSS  | -1936.38 |  -3538.49 |       
+|   5 | EURUSD_otc | CALL  |     2 | 2000    | LOSS  | -2000    |  -5538.49 |       
+[S19] EXEC EURUSD_otc call try=3/3 stake=2000.00 pay~91.0 fore=None
+42["orders/open",{"asset": "EURUSD_otc", "amount": 2000.0, "time": 60, "action": "call", "isDemo": 1, "tournamentId": 0, "requestId": 1756736643, "optionType": 100}]   
+[S12][TRACE] ids post-buy: op_id=81dc22f8-3437-4537-b3c3-d82425ecb2f4 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=81dc22f8-3437-4537-b3c3-d82425ecb2f4
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |     Amt | Res   |        Δ |   Cum P/L |
+|-----|------------|-------|-------|---------|-------|----------|-----------|       
+|   1 | GBPCAD_otc | CALL  |     1 |  200    | LOSS  |  -200    |   -200    |       
+|   2 | GBPCAD_otc | CALL  |     2 |  444.44 | LOSS  |  -444.44 |   -644.44 |       
+|   3 | GBPCAD_otc | CALL  |     3 |  957.67 | LOSS  |  -957.67 |  -1602.11 |       
+|   4 | EURUSD_otc | CALL  |     1 | 1936.38 | LOSS  | -1936.38 |  -3538.49 |       
+|   5 | EURUSD_otc | CALL  |     2 | 2000    | LOSS  | -2000    |  -5538.49 |       
+|   6 | EURUSD_otc | CALL  |     3 | 2000    | LOSS  | -2000    |  -7538.49 |       
+[S19] RecoverPool=7538.49 LossSignals=2
+[S19] AUDCHF_otc put tt=11:30:00 eta=81s fore=None pay=None ignored=False reason=ok
+[S19] EXEC AUDCHF_otc put try=1/3 stake=2000.00 pay~84.0 fore=None
+42["orders/open",{"asset": "AUDCHF_otc", "amount": 2000.0, "time": 60, "action": "put", "isDemo": 1, "tournamentId": 0, "requestId": 1756736999, "optionType": 100}]    
+[S12][TRACE] ids post-buy: op_id=0b42eddc-d27b-41d3-b0f4-f9734d0678b4 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=0b42eddc-d27b-41d3-b0f4-f9734d0678b4
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |     Amt | Res   |        Δ |   Cum P/L |
+|-----|------------|-------|-------|---------|-------|----------|-----------|       
+|   1 | GBPCAD_otc | CALL  |     1 |  200    | LOSS  |  -200    |   -200    |       
+|   2 | GBPCAD_otc | CALL  |     2 |  444.44 | LOSS  |  -444.44 |   -644.44 |       
+|   3 | GBPCAD_otc | CALL  |     3 |  957.67 | LOSS  |  -957.67 |  -1602.11 |       
+|   4 | EURUSD_otc | CALL  |     1 | 1936.38 | LOSS  | -1936.38 |  -3538.49 |       
+|   5 | EURUSD_otc | CALL  |     2 | 2000    | LOSS  | -2000    |  -5538.49 |       
+|   6 | EURUSD_otc | CALL  |     3 | 2000    | LOSS  | -2000    |  -7538.49 |       
+|   7 | AUDCHF_otc | PUT   |     1 | 2000    | LOSS  | -2000    |  -9538.49 |       
+[S19] RecoverPool=9538.49 LossSignals=3
+Current balance: 680538.52
+[S19] Loss limit hit (PnL=-9538.49). Balance=680538.52
+[S19] Round 7 done pnl=-9538.49 total=-5888.49
+
+[S19] ===== Session Summary =====
+|   Round |   Trades |      PnL | Outcome       |
+|---------|----------|----------|---------------|
+|       1 |        6 |   654    | PROFIT_TARGET |
+|       2 |        8 |   658    | PROFIT_TARGET |
+|       3 |        6 |   660    | PROFIT_TARGET |
+|       4 |       18 |   650    | PROFIT_TARGET |
+|       5 |        6 |   522    | PROFIT_TARGET |
+|       6 |        4 |   506    | PROFIT_TARGET |
+|       7 |        7 | -9538.49 | LOSS_LIMIT    |
+[S19] Total Rounds=7 Aggregated PnL=-5888.49
+(.venv) PS D:\trading\QuotexTrading> 
+
+
+[S12][TRACE] ids post-buy: op_id=fbd80345-ec3d-4f2d-a8f4-c11ecd8d8828 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=fbd80345-ec3d-4f2d-a8f4-c11ecd8d8828
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |   Amt | Res   |   Δ |   Cum P/L |
+|-----|------------|-------|-------|-------|-------|-----|-----------|
+|   1 | AUDUSD_otc | CALL  |     1 |   200 | WIN   | 186 |       186 |
+[S19] RecoverPool=0.00 LossSignals=0
+[S19] AUDCHF_otc put tt=04:40:00 eta=77s fore=None pay=None ignored=False reason=ok
+[S19] EXEC AUDCHF_otc put try=1/3 stake=200.00 pay~80.0 fore=None
+42["orders/open",{"asset": "AUDCHF_otc", "amount": 200.0, "time": 60, "action": "put", "isDemo": 1, "tournamentId": 0, "requestId": 1756712399, "optionType": 100}]     
+[S12][TRACE] ids post-buy: op_id=828818ea-c25a-40c9-bc94-b8ab22b90d7b ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=828818ea-c25a-40c9-bc94-b8ab22b90d7b
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |   Amt | Res   |    Δ |   Cum P/L |
+|-----|------------|-------|-------|-------|-------|------|-----------|
+|   1 | AUDUSD_otc | CALL  |     1 |   200 | WIN   |  186 |       186 |
+|   2 | AUDCHF_otc | PUT   |     1 |   200 | LOSS  | -200 |       -14 |
+[S19] EXEC AUDCHF_otc put try=2/3 stake=450.00 pay~80.0 fore=None
+42["orders/open",{"asset": "AUDCHF_otc", "amount": 450.0, "time": 60, "action": "put", "isDemo": 1, "tournamentId": 0, "requestId": 1756712460, "optionType": 100}]     
+[S12][TRACE] ids post-buy: op_id=62d4114d-f00a-49f1-9de8-9d731a072a75 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=62d4114d-f00a-49f1-9de8-9d731a072a75
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |   Amt | Res   |    Δ |   Cum P/L |
+|-----|------------|-------|-------|-------|-------|------|-----------|
+|   1 | AUDUSD_otc | CALL  |     1 |   200 | WIN   |  186 |       186 |
+|   2 | AUDCHF_otc | PUT   |     1 |   200 | LOSS  | -200 |       -14 |
+|   3 | AUDCHF_otc | PUT   |     2 |   450 | LOSS  | -450 |      -464 |
+[S19] EXEC AUDCHF_otc put try=3/3 stake=1012.50 pay~80.0 fore=None
+42["orders/open",{"asset": "AUDCHF_otc", "amount": 1012.5, "time": 60, "action": "put", "isDemo": 1, "tournamentId": 0, "requestId": 1756712521, "optionType": 100}]    
+[S12][TRACE] ids post-buy: op_id=0c5301b6-f325-4351-92ee-8deb0db87c96 ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=0c5301b6-f325-4351-92ee-8deb0db87c96
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |    Amt | Res   |       Δ |   Cum P/L |
+|-----|------------|-------|-------|--------|-------|---------|-----------|
+|   1 | AUDUSD_otc | CALL  |     1 |  200   | WIN   |   186   |     186   |
+|   2 | AUDCHF_otc | PUT   |     1 |  200   | LOSS  |  -200   |     -14   |
+|   3 | AUDCHF_otc | PUT   |     2 |  450   | LOSS  |  -450   |    -464   |
+|   4 | AUDCHF_otc | PUT   |     3 | 1012.5 | LOSS  | -1012.5 |   -1476.5 |
+[S19] RecoverPool=1662.50 LossSignals=1
+[S19] CADCHF_otc put tt=04:50:00 eta=68s fore=None pay=None ignored=False reason=ok
+[S19] EXEC CADCHF_otc put try=1/3 stake=2000.00 pay~89.0 fore=None
+42["orders/open",{"asset": "CADCHF_otc", "amount": 2000.0, "time": 60, "action": "put", "isDemo": 1, "tournamentId": 0, "requestId": 1756712999, "optionType": 100}]    
+[S12][TRACE] ids post-buy: op_id=4325371c-7a43-446b-8344-f8106b0e0d0f ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=4325371c-7a43-446b-8344-f8106b0e0d0f
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |    Amt | Res   |       Δ |   Cum P/L |
+|-----|------------|-------|-------|--------|-------|---------|-----------|
+|   1 | AUDUSD_otc | CALL  |     1 |  200   | WIN   |   186   |     186   |
+|   2 | AUDCHF_otc | PUT   |     1 |  200   | LOSS  |  -200   |     -14   |
+|   3 | AUDCHF_otc | PUT   |     2 |  450   | LOSS  |  -450   |    -464   |
+|   4 | AUDCHF_otc | PUT   |     3 | 1012.5 | LOSS  | -1012.5 |   -1476.5 |
+|   5 | CADCHF_otc | PUT   |     1 | 2000   | LOSS  | -2000   |   -3476.5 |
+[S19] EXEC CADCHF_otc put try=2/3 stake=2000.00 pay~83.0 fore=None
+42["orders/open",{"asset": "CADCHF_otc", "amount": 2000.0, "time": 60, "action": "put", "isDemo": 1, "tournamentId": 0, "requestId": 1756713062, "optionType": 100}]    
+[S12][TRACE] ids post-buy: op_id=02e0200f-8de2-4e05-b822-a685641ce2ae ticket=None has_bs=True has_pend=False
+[S12][RESOLVE] check_win waiting (timeout=75s) op_id=02e0200f-8de2-4e05-b822-a685641ce2ae
+Remaining 0 seconds...|   # | Asset      | Dir   |   Try |    Amt | Res   |       Δ |   Cum P/L |
+|-----|------------|-------|-------|--------|-------|---------|-----------|
+|   1 | AUDUSD_otc | CALL  |     1 |  200   | WIN   |   186   |     186   |
+|   2 | AUDCHF_otc | PUT   |     1 |  200   | LOSS  |  -200   |     -14   |
+|   3 | AUDCHF_otc | PUT   |     2 |  450   | LOSS  |  -450   |    -464   |
+|   4 | AUDCHF_otc | PUT   |     3 | 1012.5 | LOSS  | -1012.5 |   -1476.5 |
+|   5 | CADCHF_otc | PUT   |     1 | 2000   | LOSS  | -2000   |   -3476.5 |
+|   6 | CADCHF_otc | PUT   |     2 | 2000   | LOSS  | -2000   |   -5476.5 |
+[S19] RecoverPool=5662.50 LossSignals=2
+Current balance: 680589.95
+[S19] Loss limit hit (PnL=-5476.50). Balance=680589.95
+[S19] Round 7 done pnl=-5476.50 total=-1805.00
+
+[S19] ===== Session Summary =====
+|   Round |   Trades |      PnL | Outcome       |
+|---------|----------|----------|---------------|
+|       1 |       10 |   617.5  | PROFIT_TARGET |
+|       2 |        5 |   500    | PROFIT_TARGET |
+|       3 |        8 |   640.01 | PROFIT_TARGET |
+|       4 |        5 |   642    | PROFIT_TARGET |
+|       5 |        9 |   640    | PROFIT_TARGET |
+|       6 |        7 |   632    | PROFIT_TARGET |
+|       7 |        6 | -5476.5  | LOSS_LIMIT    |
+[S19] Total Rounds=7 Aggregated PnL=-1805.00
+(.venv) PS D:\trading\QuotexTrading> 
+ *  History restored 
+
+PS D:\trading\QuotexTrading>
+

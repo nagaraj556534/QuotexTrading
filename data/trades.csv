@@ -1,0 +1,6 @@
+timestamp_iso,asset,is_otc,payout,strategy,expiry_s,direction,amount,result,pl,account_mode,hour_utc,weekday,bucket_key,notes
+2025-08-09T09:37:45.389723+00:00,XAUUSD_otc,True,84.0,1,60,call,100.0,WIN,84.0,PRACTICE,9,5,OTC|hour:9|dow:5|s:1,ok
+2025-08-09T09:39:37.972240+00:00,USDARS_otc,True,93.0,1,60,put,100.0,LOSS,-100.0,PRACTICE,9,5,OTC|hour:9|dow:5|s:1,ok
+2025-08-09T09:41:49.255333+00:00,BCHUSD_otc,True,91.0,1,120,put,100.0,WIN,87.0,PRACTICE,9,5,OTC|hour:9|dow:5|s:1,ok
+2025-08-09T09:43:15.172219+00:00,INTC_otc,True,87.0,1,60,call,100.0,WIN,87.0,PRACTICE,9,5,OTC|hour:9|dow:5|s:1,ok
+2025-08-09T09:44:34.265187+00:00,FB_otc,True,87.0,1,60,put,100.0,LOSS,-100.0,PRACTICE,9,5,OTC|hour:9|dow:5|s:1,ok

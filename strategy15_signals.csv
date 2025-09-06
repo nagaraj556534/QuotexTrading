@@ -1,0 +1,304 @@
+ts_local,mode,asset,direction,note,schedule_ts,schedule_str,payout,tf_s
+2025-08-16T10:24:25,live,BCHUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:24:28,live,BCHUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:24:30,live,BCHUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:24:32,live,BCHUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:24:35,live,BCHUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:25:09,live,LINUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:25:44,live,LINUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:36:20,live,FLOUSD_otc,put,tf=60,,,56.0,60
+2025-08-16T10:36:34,live,FLOUSD_otc,put,tf=60,,,56.0,60
+2025-08-16T10:42:19,live,LINUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T10:42:26,live,LINUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T10:42:40,live,LINUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T10:42:43,live,LINUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T10:42:56,live,LINUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T10:45:01,live,SHIUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:45:01,live,SHIUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:45:27,live,SHIUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:45:27,live,SHIUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:45:53,live,SHIUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:45:53,live,SHIUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:46:16,live,NOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:46:24,live,NOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:46:32,live,NOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:46:48,live,NOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T10:49:20,live,BCHUSD_otc,call,tf=60,,,89.0,60
+2025-08-16T10:52:51,live,USDEGP_otc,put,tf=60,,,86.0,60
+2025-08-16T10:58:25,live,BRLUSD_otc,call,tf=60,,,83.0,60
+2025-08-16T10:58:36,live,BRLUSD_otc,call,tf=60,,,83.0,60
+2025-08-16T11:14:46,live,LINUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:19:11,live,SOLUSD_otc,call,tf=60,,,86.0,60
+2025-08-16T11:20:19,live,ATOUSD_otc,call,tf=60,,,76.0,60
+2025-08-16T11:23:45,live,ADAUSD_otc,put,tf=60,,,91.0,60
+2025-08-16T11:30:01,live,USDZAR_otc,call,tf=60,,,81.0,60
+2025-08-16T11:34:42,live,JNJ_otc,call,tf=60,,,87.0,60
+2025-08-16T11:34:58,live,JNJ_otc,call,tf=60,,,87.0,60
+2025-08-16T11:37:25,live,AUDCAD_otc,call,tf=60,,,90.0,60
+2025-08-16T11:42:14,live,USDTRY_otc,put,tf=60,,,92.0,60
+2025-08-16T11:43:04,live,DOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:43:19,live,DOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:43:40,live,DOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:44:49,live,DOTUSD_otc,call,tf=60,,,89.0,60
+2025-08-16T11:44:54,live,CADJPY_otc,put,tf=60,,,88.0,60
+2025-08-16T11:45:55,live,ADAUSD_otc,call,tf=60,,,79.0,60
+2025-08-16T11:46:31,live,XRPUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T11:46:56,live,XRPUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T11:48:01,live,TONUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T11:48:16,live,TONUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T11:48:41,live,AUDJPY_otc,put,tf=60,,,83.0,60
+2025-08-16T11:48:51,live,TONUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T11:50:19,live,USDINR_otc,call,tf=60,,,93.0,60
+2025-08-16T11:50:23,live,USDINR_otc,call,tf=60,,,93.0,60
+2025-08-16T11:50:39,live,EURAUD_otc,call,tf=60,,,85.0,60
+2025-08-16T11:51:19,live,DOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:51:24,live,DOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:51:27,live,DOTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:52:34,live,LTCUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:52:46,live,LTCUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:54:00,live,USDINR_otc,call,tf=60,,,93.0,60
+2025-08-16T11:54:08,live,AVAUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T11:54:16,live,TRXUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T11:58:50,live,BNBUSD_otc,put,tf=60,,,85.0,60
+2025-08-16T12:02:23,live,WIFUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T12:02:35,live,WIFUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T12:04:08,live,WIFUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T12:04:33,live,WIFUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T12:09:59,live,GBPCHF_otc,put,tf=60,,,89.0,60
+2025-08-16T12:15:44,live,EURAUD_otc,call,tf=60,,,84.0,60
+2025-08-16T12:19:27,live,HMSUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T12:22:30,live,USDBDT_otc,put,tf=60,,,92.0,60
+2025-08-16T12:24:08,live,FB_otc,put,tf=60,,,82.0,60
+2025-08-16T12:26:38,live,EURCAD_otc,put,tf=60,,,85.0,60
+2025-08-16T12:27:34,live,AUDUSD_otc,put,tf=60,,,80.0,60
+2025-08-16T12:28:56,live,DASUSD_otc,put,tf=60,,,87.0,60
+2025-08-16T12:29:46,live,AUDUSD_otc,call,tf=60,,,80.0,60
+2025-08-16T12:34:39,live,USDINR_otc,put,tf=60,,,91.0,60
+2025-08-16T12:37:29,live,MSFT_otc,put,tf=60,,,82.0,60
+2025-08-16T12:40:44,live,ZECUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T12:40:48,live,ZECUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T12:44:09,live,TRUUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T12:45:41,live,AXP_otc,call,tf=60,,,80.0,60
+2025-08-16T12:48:40,live,XAUUSD_otc,put,tf=60,,,90.0,60
+2025-08-16T12:51:20,live,USDBDT_otc,put,tf=60,,,93.0,60
+2025-08-16T12:56:16,live,LTCUSD_otc,put,tf=60,,,92.0,60
+2025-08-16T12:58:07,live,APTUSD_otc,put,tf=60,,,88.0,60
+2025-08-16T12:58:07,live,APTUSD_otc,put,tf=60,,,88.0,60
+2025-08-16T13:02:20,live,APTUSD_otc,put,tf=60,,,92.0,60
+2025-08-16T13:02:41,live,APTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:07:33,live,GBPJPY_otc,call,tf=60,,,85.0,60
+2025-08-16T13:13:03,live,MCD_otc,put,tf=60,,,80.0,60
+2025-08-16T13:13:18,live,USDJPY_otc,call,tf=60,,,80.0,60
+2025-08-16T13:19:00,live,FB_otc,call,tf=60,,,81.0,60
+2025-08-16T13:19:19,live,TIAUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T13:21:39,live,DOTUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T13:21:46,live,DOTUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T13:24:42,live,USDCOP_otc,call,tf=60,,,80.0,60
+2025-08-16T13:25:22,live,USDCHF_otc,call,tf=60,,,87.0,60
+2025-08-16T13:26:53,live,BCHUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:28:49,live,ADAUSD_otc,put,tf=60,,,88.0,60
+2025-08-16T13:34:45,live,USDNGN_otc,call,tf=60,,,80.0,60
+2025-08-16T13:35:53,live,BEAUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:37:07,live,AUDCHF_otc,put,tf=60,,,90.0,60
+2025-08-16T13:37:27,live,AUDCHF_otc,put,tf=60,,,90.0,60
+2025-08-16T13:39:57,live,USDNGN_otc,put,tf=60,,,89.0,60
+2025-08-16T13:40:46,live,XRPUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T13:40:50,live,JNJ_otc,call,tf=60,,,87.0,60
+2025-08-16T13:43:24,live,MANUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:43:59,live,MANUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:45:01,live,MANUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T13:46:55,live,TIAUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T13:47:58,live,DASUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:49:08,live,AXSUSD_otc,put,tf=60,,,68.0,60
+2025-08-16T13:50:56,live,EURAUD_otc,call,tf=60,,,90.0,60
+2025-08-16T13:51:28,live,EURCHF_otc,call,tf=60,,,80.0,60
+2025-08-16T13:54:40,live,USDDZD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:56:30,live,PEPUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T13:58:10,live,USDPHP_otc,call,tf=60,,,90.0,60
+2025-08-16T13:59:53,live,USDCHF_otc,put,tf=60,,,83.0,60
+2025-08-16T14:03:19,live,GBPAUD_otc,put,tf=60,,,85.0,60
+2025-08-16T14:03:51,live,GBPAUD_otc,put,tf=60,,,85.0,60
+2025-08-16T14:06:17,live,EURSGD_otc,put,tf=60,,,90.0,60
+2025-08-16T14:11:55,live,AVAUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T14:20:46,live,DASUSD_otc,call,tf=60,,,85.0,60
+2025-08-16T14:23:20,live,ARBUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T14:28:45,live,AUDCAD_otc,put,tf=60,,,90.0,60
+2025-08-16T14:31:17,live,AXSUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T14:37:37,live,USDCHF_otc,put,tf=60,,,80.0,60
+2025-08-16T14:40:04,live,ARBUSD_otc,call,tf=60,,,93.0,60
+2025-08-16T14:43:37,live,USDARS_otc,call,tf=60,,,93.0,60
+2025-08-16T14:49:46,live,NZDCAD_otc,call,tf=60,,,93.0,60
+2025-08-16T14:52:17,live,APTUSD_otc,put,tf=60,,,93.0,60
+2025-08-16T15:59:15,live,TRXUSD_otc,put,tf=60+confluence,,,93.0,60
+2025-08-16T16:20:05,live,NOTUSD_otc,put,tf=60+confluence,,,93.0,60
+2025-08-16T16:26:19,live,AUDUSD_otc,call,tf=60+confluence,,,92.0,60
+2025-08-16T16:33:29,live,EURUSD_otc,call,tf=60+confluence,,,91.0,60
+2025-08-16T16:44:39,live,USDJPY_otc,call,tf=60+confluence,,,92.0,60
+2025-08-16T17:16:25,live,AUDCAD_otc,put,tf=60+confluence trend=sideways mode=fallback,,,90.0,60
+2025-08-16T17:17:48,live,BCHUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-16T17:22:49,live,BEAUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-16T17:23:26,live,BEAUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-16T17:23:55,live,BEAUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-16T17:27:11,live,SHIUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-16T17:34:25,live,INTC_otc,put,tf=60+confluence trend=sideways mode=breakout,,,87.0,60
+2025-08-16T17:49:56,live,BTCUSD_otc,call,tf=60+confluence trend=uptrend mode=fallback,,,93.0,60
+2025-08-16T17:52:23,live,LINUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-16T17:53:38,live,ARBUSD_otc,put,tf=60+confluence trend=sideways mode=fallback,,,93.0,60
+2025-08-16T18:04:24,live,USDTRY_otc,put,tf=60+confluence trend=downtrend mode=follow,,,92.0,60
+2025-08-16T18:05:43,live,EURUSD_otc,call,tf=60+confluence trend=sideways mode=fallback,,,85.0,60
+2025-08-16T18:06:56,live,ARBUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,91.0,60
+2025-08-16T18:09:05,live,SOLUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-16T18:11:34,live,ADAUSD_otc,call,tf=60+confluence trend=sideways mode=fallback,,,93.0,60
+2025-08-16T18:17:26,live,AUDNZD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,87.0,60
+2025-08-16T18:27:00,live,AXSUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,91.0,60
+2025-08-16T18:29:47,live,NOTUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,93.0,60
+2025-08-16T18:32:37,live,SHIUSD_otc,call,tf=60+confluence trend=sideways mode=fallback,,,93.0,60
+2025-08-16T18:33:52,live,AUDUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,93.0,60
+2025-08-16T18:42:49,live,GALUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-16T18:53:36,live,ETCUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-16T19:27:16,live,BNBUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-16T19:54:20,live,APTUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-16T20:33:22,live,BONUSD_otc,put,tf=60+confluence trend=sideways mode=fallback,,,89.0,60
+2025-08-16T20:34:57,live,AVAUSD_otc,call,tf=60+confluence trend=sideways mode=fallback,,,91.0,60
+2025-08-16T20:39:29,live,NZDCHF_otc,put,tf=60+confluence trend=sideways mode=breakout,,,89.0,60
+2025-08-16T20:52:30,live,TONUSD_otc,put,tf=60+confluence trend=sideways mode=fallback,,,93.0,60
+2025-08-16T22:42:48,live,USDBDT_otc,call,tf=60+confluence trend=sideways mode=fallback,,,93.0,60
+2025-08-16T22:50:06,live,XRPUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,93.0,60
+2025-08-16T22:55:41,live,MELUSD_otc,call,tf=60+confluence trend=downtrend mode=fallback,,,53.0,60
+2025-08-17T07:39:16,live,ZECUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-17T09:10:04,live,XRPUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,93.0,60
+2025-08-17T09:21:15,live,BRLUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-17T09:29:06,live,TRUUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,93.0,60
+2025-08-17T09:43:07,live,BONUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-17T09:50:55,live,PFE_otc,call,tf=60+confluence trend=sideways mode=breakout,,,80.0,60
+2025-08-17T10:05:23,live,GALUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,92.0,60
+2025-08-17T10:12:45,live,GBPAUD_otc,put,tf=60+confluence trend=sideways mode=fallback,,,93.0,60
+2025-08-17T10:18:25,live,DOGUSD_otc,call,tf=60+confluence trend=sideways mode=fallback,,,90.0,60
+2025-08-17T10:40:37,live,XRPUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-17T11:09:39,live,BRLUSD_otc,put,tf=60+confluence trend=sideways mode=breakout,,,93.0,60
+2025-08-17T11:28:14,live,ARBUSD_otc,put,tf=60+confluence trend=downtrend mode=follow,,,93.0,60
+2025-08-17T11:35:16,live,EURAUD_otc,call,parallel_scan quality=0.90 mode=momentum,,,82.0,60
+2025-08-17T11:39:45,live,AXSUSD_otc,put,parallel_scan quality=1.00 mode=ema_cross,,,93.0,60
+2025-08-17T11:42:03,live,CADJPY_otc,call,parallel_scan quality=0.77 mode=follow,,,90.0,60
+2025-08-17T11:44:35,live,JNJ_otc,put,parallel_scan quality=0.92 mode=momentum,,,87.0,60
+2025-08-17T11:48:44,live,PFE_otc,call,parallel_scan quality=1.00 mode=ema_cross,,,87.0,60
+2025-08-17T11:53:17,live,MSFT_otc,call,parallel_scan quality=0.97 mode=momentum,,,87.0,60
+2025-08-17T12:24:05,live,BRLUSD_otc,call,parallel_scan quality=1.00 mode=ema_cross,,,91.0,60
+2025-08-17T12:25:35,live,ZECUSD_otc,call,parallel_scan quality=1.00 mode=trend_follow,,,93.0,60
+2025-08-17T12:26:56,live,AXSUSD_otc,call,parallel_scan quality=1.00 mode=ema_cross,,,75.0,60
+2025-08-17T12:28:47,live,EURGBP_otc,put,parallel_scan quality=0.92 mode=momentum,,,84.0,60
+2025-08-17T12:30:10,live,AUDCAD_otc,put,parallel_scan quality=0.92 mode=momentum,,,89.0,60
+2025-08-17T12:33:34,live,ADAUSD_otc,call,parallel_scan quality=0.97 mode=momentum,,,89.0,60
+2025-08-17T12:35:14,live,GALUSD_otc,call,parallel_scan quality=1.00 mode=ema_cross,,,93.0,60
+2025-08-17T12:36:49,live,MANUSD_otc,call,tf=60+confluence trend=uptrend mode=follow,,,93.0,60
+2025-08-17T12:38:56,live,FLOUSD_otc,put,parallel_scan quality=0.95 mode=ema_cross,,,63.0,60
+2025-08-17T12:40:34,live,TRUUSD_otc,call,parallel_scan quality=0.97 mode=trend_follow,,,93.0,60
+2025-08-17T12:43:00,live,NOTUSD_otc,put,parallel_scan quality=1.00 mode=ema_cross,,,93.0,60
+2025-08-17T12:45:05,live,TRXUSD_otc,call,parallel_scan quality=1.00 mode=ema_cross,,,93.0,60
+2025-08-17T12:47:22,live,DASUSD_otc,call,parallel_scan quality=1.00 mode=trend_follow,,,68.0,60
+2025-08-17T12:50:34,live,EURGBP_otc,call,parallel_scan quality=1.00 mode=ema_cross,,,93.0,60
+2025-08-17T12:51:59,live,USDPHP_otc,put,parallel_scan quality=0.90 mode=momentum,,,90.0,60
+2025-08-17T12:55:12,live,PFE_otc,call,parallel_scan quality=0.92 mode=trend_follow,,,87.0,60
+2025-08-17T13:24:19,live,MANUSD_otc,put,parallel_scan score=0.82 mode=ema_cross,,,93.0,60
+2025-08-17T13:27:21,live,WIFUSD_otc,put,parallel_scan score=0.91 mode=ema_cross,,,93.0,60
+2025-08-17T13:29:18,live,XRPUSD_otc,call,parallel_scan score=0.86 mode=trend_follow,,,93.0,60
+2025-08-17T13:31:37,live,EURUSD_otc,put,parallel_scan score=0.85 mode=momentum,,,87.0,60
+2025-08-17T13:36:33,live,SHIUSD_otc,call,parallel_scan score=0.90 mode=trend_follow,,,93.0,60
+2025-08-17T13:38:08,live,EURUSD_otc,put,parallel_scan score=0.77 mode=momentum,,,93.0,60
+2025-08-17T13:41:14,live,DOGUSD_otc,put,parallel_scan score=0.75 mode=trend_follow,,,93.0,60
+2025-08-17T13:43:22,live,USCrude_otc,call,parallel_scan score=0.90 mode=ema_cross,,,89.0,60
+2025-08-17T13:46:35,live,BNBUSD_otc,put,parallel_scan score=0.69 mode=ema_cross,,,93.0,60
+2025-08-17T13:51:55,live,NOTUSD_otc,put,parallel_scan score=0.88 mode=trend_follow,,,93.0,60
+2025-08-17T13:54:29,live,SOLUSD_otc,call,parallel_scan score=0.76 mode=ema_cross,,,93.0,60
+2025-08-17T13:58:20,live,ARBUSD_otc,call,parallel_scan score=0.79 mode=ema_cross,,,93.0,60
+2025-08-17T13:59:49,live,WIFUSD_otc,put,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T15:46:52,live,USDJPY_otc,call,parallel_scan score=0.78 mode=ema_cross,,,86.0,60
+2025-08-17T15:52:18,live,USDCHF_otc,put,parallel_scan score=0.79 mode=trend_follow,,,89.0,60
+2025-08-17T16:00:44,live,AUDNZD_otc,put,parallel_scan score=0.77 mode=momentum,,,88.0,60
+2025-08-17T16:06:02,live,TRXUSD_otc,call,parallel_scan score=0.79 mode=ema_cross,,,93.0,60
+2025-08-17T16:14:42,live,TONUSD_otc,put,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T16:38:16,live,GALUSD_otc,put,parallel_scan score=0.81 mode=ema_cross,,,93.0,60
+2025-08-17T16:42:27,live,BRLUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,91.0,60
+2025-08-17T16:47:58,live,APTUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T16:54:25,live,EURNZD_otc,put,parallel_scan score=0.83 mode=ema_cross,,,90.0,60
+2025-08-17T16:58:50,live,AUDUSD_otc,put,parallel_scan score=0.83 mode=trend_follow,,,89.0,60
+2025-08-17T17:03:26,live,XRPUSD_otc,call,parallel_scan score=0.81 mode=trend_follow,,,93.0,60
+2025-08-17T17:25:04,live,GBPCAD_otc,put,parallel_scan score=0.83 mode=trend_follow,,,89.0,60
+2025-08-17T17:33:07,live,PFE_otc,call,parallel_scan score=0.74 mode=momentum,,,87.0,60
+2025-08-17T17:38:09,live,WIFUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T17:45:19,live,USDCHF_otc,put,parallel_scan score=0.76 mode=momentum,,,89.0,60
+2025-08-17T17:53:59,live,USDJPY_otc,call,parallel_scan score=0.79 mode=momentum,,,88.0,60
+2025-08-17T17:58:56,live,HMSUSD_otc,put,parallel_scan score=0.77 mode=momentum,,,93.0,60
+2025-08-17T18:02:53,live,BA_otc,put,parallel_scan score=0.83 mode=ema_cross,,,87.0,60
+2025-08-17T18:04:03,live,MELUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T18:08:06,live,UKBrent_otc,put,parallel_scan score=0.78 mode=ema_cross,,,90.0,60
+2025-08-17T18:20:43,live,FB_otc,call,parallel_scan score=0.78 mode=ema_cross,,,86.0,60
+2025-08-17T18:21:21,live,DASUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T18:24:23,live,ZECUSD_otc,put,parallel_scan score=0.79 mode=momentum,,,93.0,60
+2025-08-17T18:25:46,live,LINUSD_otc,put,parallel_scan score=0.83 mode=trend_follow,,,93.0,60
+2025-08-17T18:26:12,live,AUDNZD_otc,put,parallel_scan score=0.83 mode=ema_cross,,,88.0,60
+2025-08-17T18:29:08,live,BEAUSD_otc,put,parallel_scan score=0.73 mode=ema_cross,,,93.0,60
+2025-08-17T18:30:40,live,MANUSD_otc,call,parallel_scan score=0.81 mode=ema_cross,,,93.0,60
+2025-08-17T18:35:19,live,AVAUSD_otc,put,parallel_scan score=0.70 mode=ema_cross,,,93.0,60
+2025-08-17T18:39:42,live,ZECUSD_otc,call,parallel_scan score=0.78 mode=ema_cross,,,93.0,60
+2025-08-17T18:42:05,live,UKBrent_otc,put,parallel_scan score=0.76 mode=ema_cross,,,80.0,60
+2025-08-17T18:43:41,live,AXSUSD_otc,call,parallel_scan score=0.78 mode=ema_cross,,,89.0,60
+2025-08-17T18:43:48,live,AXSUSD_otc,call,parallel_scan score=0.79 mode=ema_cross,,,89.0,60
+2025-08-17T18:51:33,live,TONUSD_otc,put,parallel_scan score=0.82 mode=trend_follow,,,93.0,60
+2025-08-17T18:54:00,live,DASUSD_otc,call,parallel_scan score=0.77 mode=momentum,,,93.0,60
+2025-08-17T18:57:48,live,GBPNZD_otc,call,parallel_scan score=0.78 mode=ema_cross,,,82.0,60
+2025-08-17T19:03:13,live,ARBUSD_otc,call,parallel_scan score=0.79 mode=ema_cross,,,93.0,60
+2025-08-17T19:08:18,live,AUDCHF_otc,call,parallel_scan score=0.78 mode=momentum,,,90.0,60
+2025-08-17T19:14:03,live,XRPUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T19:19:21,live,DOGUSD_otc,call,parallel_scan score=0.81 mode=ema_cross,,,79.0,60
+2025-08-17T19:19:37,live,DOGUSD_otc,call,parallel_scan score=0.81 mode=ema_cross,,,79.0,60
+2025-08-17T19:24:43,live,USDCAD_otc,call,parallel_scan score=0.79 mode=momentum,,,80.0,60
+2025-08-17T19:25:13,live,ADAUSD_otc,call,parallel_scan score=0.74 mode=momentum,,,93.0,60
+2025-08-17T19:30:06,live,DASUSD_otc,call,parallel_scan score=0.76 mode=ema_cross,,,93.0,60
+2025-08-17T19:31:05,live,BCHUSD_otc,call,parallel_scan score=0.77 mode=momentum,,,93.0,60
+2025-08-17T19:31:35,live,USDJPY_otc,put,parallel_scan score=0.78 mode=trend_follow,,,92.0,60
+2025-08-17T19:36:19,live,USDARS_otc,call,parallel_scan score=0.74 mode=momentum,,,91.0,60
+2025-08-17T19:40:46,live,EURUSD_otc,call,parallel_scan score=0.79 mode=trend_follow,,,93.0,60
+2025-08-17T19:45:09,live,NZDUSD_otc,call,parallel_scan score=0.78 mode=momentum,,,88.0,60
+2025-08-17T19:50:14,live,NOTUSD_otc,put,parallel_scan score=0.74 mode=ema_cross,,,93.0,60
+2025-08-17T19:50:48,live,GBPJPY_otc,put,parallel_scan score=0.81 mode=momentum,,,87.0,60
+2025-08-17T19:55:36,live,AUDUSD_otc,put,parallel_scan score=0.82 mode=trend_follow,,,93.0,60
+2025-08-17T20:05:14,live,PEPUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60
+2025-08-17T20:10:43,live,USDBDT_otc,call,parallel_scan score=0.72 mode=momentum,,,91.0,60
+2025-08-17T20:15:59,live,MANUSD_otc,call,parallel_scan score=0.77 mode=momentum,,,93.0,60
+2025-08-17T20:20:43,live,BCHUSD_otc,put,parallel_scan score=0.83 mode=ema_cross,,,82.0,60
+2025-08-17T20:24:44,live,EURCAD_otc,call,parallel_scan score=0.74 mode=momentum,,,82.0,60
+2025-08-17T20:29:24,live,TRXUSD_otc,call,parallel_scan score=0.78 mode=ema_cross,,,93.0,60
+2025-08-17T20:29:38,live,UKBrent_otc,put,parallel_scan score=0.73 mode=ema_cross,,,90.0,60
+2025-08-17T20:34:16,live,TRXUSD_otc,call,parallel_scan score=0.75 mode=momentum,,,93.0,60
+2025-08-17T20:38:53,live,PFE_otc,put,parallel_scan score=0.78 mode=trend_follow,,,81.0,60
+2025-08-17T20:42:15,live,ZECUSD_otc,put,parallel_scan score=0.71 mode=ema_cross,,,93.0,60
+2025-08-17T20:43:10,live,AXSUSD_otc,call,parallel_scan score=0.68 mode=ema_cross,,,81.0,60
+2025-08-17T20:48:32,live,CADCHF_otc,call,parallel_scan score=0.83 mode=ema_cross,,,88.0,60
+2025-08-18T07:48:46,live,ZECUSD_otc,put,parallel_scan score=0.73 mode=ema_cross,,,93.0,60
+2025-08-18T07:59:56,live,EURUSD_otc,call,parallel_scan score=0.76 mode=momentum,,,93.0,60
+2025-08-18T08:05:42,live,ETHUSD_otc,put,parallel_scan score=0.78 mode=trend_follow,,,93.0,60
+2025-08-18T08:27:22,live,XAGUSD_otc,call,parallel_scan score=0.81 mode=momentum,,,80.0,60
+2025-08-18T08:37:16,live,TONUSD_otc,call,parallel_scan score=0.82 mode=trend_follow,,,93.0,60
+2025-08-18T09:01:47,live,ZECUSD_otc,put,parallel_scan score=0.81 mode=trend_follow,,,93.0,60
+2025-08-18T09:12:29,live,TRUUSD_otc,call,parallel_scan score=0.77 mode=ema_cross,,,93.0,60
+2025-08-18T12:47:27,live,BCHUSD_otc,put,parallel_scan score=0.76 mode=momentum,,,93.0,60
+2025-08-18T12:47:38,live,BTCUSD_otc,put,parallel_scan score=0.82 mode=momentum,,,71.0,60
+2025-08-18T12:54:03,live,TRUUSD_otc,put,parallel_scan score=0.75 mode=ema_cross,,,93.0,60
+2025-08-18T13:06:17,live,GBPAUD_otc,put,parallel_scan score=0.82 mode=momentum,,,93.0,60
+2025-08-18T13:10:29,live,ATOUSD_otc,put,parallel_scan score=0.76 mode=ema_cross,,,81.0,60
+2025-08-18T13:18:04,live,AVAUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,77.0,60
+2025-08-18T13:35:24,live,GBPAUD_otc,put,parallel_scan score=0.77 mode=trend_follow,,,93.0,60
+2025-08-18T13:41:20,live,TRUUSD_otc,put,parallel_scan score=0.75 mode=ema_cross,,,93.0,60
+2025-08-18T13:48:14,live,EURGBP_otc,call,parallel_scan score=0.79 mode=momentum,,,93.0,60
+2025-08-18T13:53:55,live,USDJPY_otc,put,parallel_scan score=0.82 mode=momentum,,,92.0,60
+2025-08-18T14:05:20,live,XRPUSD_otc,put,parallel_scan score=0.76 mode=momentum,,,93.0,60
+2025-08-18T14:10:40,live,AUDUSD_otc,put,parallel_scan score=0.77 mode=momentum,,,93.0,60
+2025-08-18T14:14:23,live,XRPUSD_otc,put,parallel_scan score=0.75 mode=momentum,,,93.0,60
+2025-08-18T14:25:11,live,AUDCAD_otc,put,parallel_scan score=0.79 mode=momentum,,,90.0,60
+2025-08-21T09:13:44,live,AUDJPY_otc,put,parallel_scan score=0.81 mode=ema_cross,,,92.0,60
+2025-08-21T09:16:49,live,USDJPY_otc,put,parallel_scan score=0.79 mode=momentum,,,92.0,60
+2025-08-21T09:26:32,live,DOTUSD_otc,put,parallel_scan score=0.78 mode=ema_cross,,,93.0,60
+2025-08-21T09:31:13,live,AUDCAD_otc,put,parallel_scan score=0.77 mode=momentum,,,90.0,60
+2025-08-21T09:38:46,live,AUDJPY_otc,put,parallel_scan score=0.82 mode=momentum,,,92.0,60
+2025-08-21T09:42:23,live,ZECUSD_otc,call,parallel_scan score=0.83 mode=ema_cross,,,93.0,60

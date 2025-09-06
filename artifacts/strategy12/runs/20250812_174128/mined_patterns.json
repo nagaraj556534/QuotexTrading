@@ -1,0 +1,3429 @@
+[
+  {
+    "direction": "put",
+    "predicates": [
+      "psar_bull",
+      "run_down_ge2",
+      "ema_above"
+    ],
+    "global_trades": 219,
+    "global_wins": 111,
+    "win_rate": 0.5068493150684932,
+    "per_asset": {
+      "ATOUSD_otc": [
+        8,
+        13
+      ],
+      "AUDUSD_otc": [
+        0,
+        1
+      ],
+      "AVAUSD_otc": [
+        2,
+        5
+      ],
+      "BRLUSD_otc": [
+        9,
+        12
+      ],
+      "BTCUSD_otc": [
+        3,
+        6
+      ],
+      "DOGUSD_otc": [
+        6,
+        8
+      ],
+      "ETHUSD_otc": [
+        4,
+        7
+      ],
+      "EURGBP_otc": [
+        8,
+        13
+      ],
+      "EURUSD_otc": [
+        3,
+        4
+      ],
+      "FLOUSD_otc": [
+        1,
+        3
+      ],
+      "GBPAUD_otc": [
+        0,
+        4
+      ],
+      "HMSUSD_otc": [
+        3,
+        6
+      ],
+      "LINUSD_otc": [
+        7,
+        10
+      ],
+      "LTCUSD_otc": [
+        8,
+        18
+      ],
+      "MANUSD_otc": [
+        5,
+        10
+      ],
+      "MELUSD_otc": [
+        2,
+        8
+      ],
+      "NOTUSD_otc": [
+        1,
+        4
+      ],
+      "PEPUSD_otc": [
+        3,
+        5
+      ],
+      "SHIUSD_otc": [
+        0,
+        2
+      ],
+      "SOLUSD_otc": [
+        2,
+        4
+      ],
+      "TIAUSD_otc": [
+        3,
+        8
+      ],
+      "TRUUSD_otc": [
+        10,
+        19
+      ],
+      "TRXUSD_otc": [
+        5,
+        8
+      ],
+      "USDARS_otc": [
+        5,
+        11
+      ],
+      "USDINR_otc": [
+        1,
+        3
+      ],
+      "USDPKR_otc": [
+        3,
+        6
+      ],
+      "WIFUSD_otc": [
+        2,
+        4
+      ],
+      "XRPUSD_otc": [
+        2,
+        4
+      ],
+      "ZECUSD_otc": [
+        5,
+        13
+      ]
+    }
+  },
+  {
+    "direction": "put",
+    "predicates": [
+      "body_ge_0p3",
+      "psar_bull",
+      "ema_above"
+    ],
+    "global_trades": 1180,
+    "global_wins": 597,
+    "win_rate": 0.5059322033898305,
+    "per_asset": {
+      "ATOUSD_otc": [
+        32,
+        54
+      ],
+      "AUDUSD_otc": [
+        9,
+        15
+      ],
+      "AVAUSD_otc": [
+        9,
+        18
+      ],
+      "BRLUSD_otc": [
+        32,
+        73
+      ],
+      "BTCUSD_otc": [
+        15,
+        26
+      ],
+      "DOGUSD_otc": [
+        23,
+        48
+      ],
+      "ETHUSD_otc": [
+        13,
+        19
+      ],
+      "EURGBP_otc": [
+        25,
+        50
+      ],
+      "EURUSD_otc": [
+        17,
+        21
+      ],
+      "FLOUSD_otc": [
+        9,
+        17
+      ],
+      "GBPAUD_otc": [
+        11,
+        28
+      ],
+      "HMSUSD_otc": [
+        25,
+        48
+      ],
+      "LINUSD_otc": [
+        30,
+        51
+      ],
+      "LTCUSD_otc": [
+        32,
+        68
+      ],
+      "MANUSD_otc": [
+        33,
+        63
+      ],
+      "MELUSD_otc": [
+        26,
+        48
+      ],
+      "NOTUSD_otc": [
+        15,
+        33
+      ],
+      "PEPUSD_otc": [
+        11,
+        18
+      ],
+      "SHIUSD_otc": [
+        13,
+        31
+      ],
+      "SOLUSD_otc": [
+        29,
+        52
+      ],
+      "TIAUSD_otc": [
+        22,
+        44
+      ],
+      "TRUUSD_otc": [
+        38,
+        82
+      ],
+      "TRXUSD_otc": [
+        21,
+        37
+      ],
+      "USDARS_otc": [
+        24,
+        50
+      ],
+      "USDINR_otc": [
+        14,
+        33
+      ],
+      "USDPKR_otc": [
+        11,
+        19
+      ],
+      "WIFUSD_otc": [
+        6,
+        12
+      ],
+      "XRPUSD_otc": [
+        16,
+        34
+      ],
+      "ZECUSD_otc": [
+        36,
+        88
+      ]
+    }
+  },
+  {
+    "direction": "put",
+    "predicates": [
+      "psar_bull",
+      "run_down_ge2"
+    ],
+    "global_trades": 408,
+    "global_wins": 205,
+    "win_rate": 0.5024509803921569,
+    "per_asset": {
+      "ATOUSD_otc": [
+        10,
+        17
+      ],
+      "AUDUSD_otc": [
+        6,
+        10
+      ],
+      "AVAUSD_otc": [
+        7,
+        17
+      ],
+      "BRLUSD_otc": [
+        12,
+        19
+      ],
+      "BTCUSD_otc": [
+        7,
+        17
+      ],
+      "DOGUSD_otc": [
+        10,
+        12
+      ],
+      "ETHUSD_otc": [
+        11,
+        21
+      ],
+      "EURGBP_otc": [
+        9,
+        16
+      ],
+      "EURUSD_otc": [
+        7,
+        12
+      ],
+      "FLOUSD_otc": [
+        4,
+        11
+      ],
+      "GBPAUD_otc": [
+        6,
+        16
+      ],
+      "HMSUSD_otc": [
+        4,
+        9
+      ],
+      "LINUSD_otc": [
+        9,
+        13
+      ],
+      "LTCUSD_otc": [
+        8,
+        19
+      ],
+      "MANUSD_otc": [
+        6,
+        15
+      ],
+      "MELUSD_otc": [
+        4,
+        12
+      ],
+      "NOTUSD_otc": [
+        3,
+        6
+      ],
+      "PEPUSD_otc": [
+        9,
+        14
+      ],
+      "SHIUSD_otc": [
+        3,
+        8
+      ],
+      "SOLUSD_otc": [
+        2,
+        9
+      ],
+      "TIAUSD_otc": [
+        7,
+        14
+      ],
+      "TRUUSD_otc": [
+        10,
+        19
+      ],
+      "TRXUSD_otc": [
+        8,
+        14
+      ],
+      "USDARS_otc": [
+        10,
+        22
+      ],
+      "USDINR_otc": [
+        6,
+        11
+      ],
+      "USDPKR_otc": [
+        9,
+        18
+      ],
+      "WIFUSD_otc": [
+        4,
+        11
+      ],
+      "XRPUSD_otc": [
+        7,
+        11
+      ],
+      "ZECUSD_otc": [
+        7,
+        15
+      ]
+    }
+  },
+  {
+    "direction": "put",
+    "predicates": [
+      "psar_bull",
+      "run_down_ge2",
+      "ema_dist_ge_0p0"
+    ],
+    "global_trades": 408,
+    "global_wins": 205,
+    "win_rate": 0.5024509803921569,
+    "per_asset": {
+      "ATOUSD_otc": [
+        10,
+        17
+      ],
+      "AUDUSD_otc": [
+        6,
+        10
+      ],
+      "AVAUSD_otc": [
+        7,
+        17
+      ],
+      "BRLUSD_otc": [
+        12,
+        19
+      ],
+      "BTCUSD_otc": [
+        7,
+        17
+      ],
+      "DOGUSD_otc": [
+        10,
+        12
+      ],
+      "ETHUSD_otc": [
+        11,
+        21
+      ],
+      "EURGBP_otc": [
+        9,
+        16
+      ],
+      "EURUSD_otc": [
+        7,
+        12
+      ],
+      "FLOUSD_otc": [
+        4,
+        11
+      ],
+      "GBPAUD_otc": [
+        6,
+        16
+      ],
+      "HMSUSD_otc": [
+        4,
+        9
+      ],
+      "LINUSD_otc": [
+        9,
+        13
+      ],
+      "LTCUSD_otc": [
+        8,
+        19
+      ],
+      "MANUSD_otc": [
+        6,
+        15
+      ],
+      "MELUSD_otc": [
+        4,
+        12
+      ],
+      "NOTUSD_otc": [
+        3,
+        6
+      ],
+      "PEPUSD_otc": [
+        9,
+        14
+      ],
+      "SHIUSD_otc": [
+        3,
+        8
+      ],
+      "SOLUSD_otc": [
+        2,
+        9
+      ],
+      "TIAUSD_otc": [
+        7,
+        14
+      ],
+      "TRUUSD_otc": [
+        10,
+        19
+      ],
+      "TRXUSD_otc": [
+        8,
+        14
+      ],
+      "USDARS_otc": [
+        10,
+        22
+      ],
+      "USDINR_otc": [
+        6,
+        11
+      ],
+      "USDPKR_otc": [
+        9,
+        18
+      ],
+      "WIFUSD_otc": [
+        4,
+        11
+      ],
+      "XRPUSD_otc": [
+        7,
+        11
+      ],
+      "ZECUSD_otc": [
+        7,
+        15
+      ]
+    }
+  },
+  {
+    "direction": "put",
+    "predicates": [
+      "psar_bull",
+      "run_down_ge2",
+      "body_ge_0p3"
+    ],
+    "global_trades": 282,
+    "global_wins": 140,
+    "win_rate": 0.49645390070921985,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        12
+      ],
+      "AUDUSD_otc": [
+        4,
+        7
+      ],
+      "AVAUSD_otc": [
+        4,
+        11
+      ],
+      "BRLUSD_otc": [
+        9,
+        14
+      ],
+      "BTCUSD_otc": [
+        4,
+        10
+      ],
+      "DOGUSD_otc": [
+        5,
+        7
+      ],
+      "ETHUSD_otc": [
+        9,
+        16
+      ],
+      "EURGBP_otc": [
+        7,
+        14
+      ],
+      "EURUSD_otc": [
+        7,
+        11
+      ],
+      "FLOUSD_otc": [
+        3,
+        8
+      ],
+      "GBPAUD_otc": [
+        3,
+        12
+      ],
+      "HMSUSD_otc": [
+        4,
+        7
+      ],
+      "LINUSD_otc": [
+        6,
+        8
+      ],
+      "LTCUSD_otc": [
+        4,
+        14
+      ],
+      "MANUSD_otc": [
+        3,
+        9
+      ],
+      "MELUSD_otc": [
+        4,
+        10
+      ],
+      "NOTUSD_otc": [
+        3,
+        5
+      ],
+      "PEPUSD_otc": [
+        6,
+        9
+      ],
+      "SHIUSD_otc": [
+        2,
+        6
+      ],
+      "SOLUSD_otc": [
+        2,
+        8
+      ],
+      "TIAUSD_otc": [
+        6,
+        11
+      ],
+      "TRUUSD_otc": [
+        6,
+        11
+      ],
+      "TRXUSD_otc": [
+        6,
+        10
+      ],
+      "USDARS_otc": [
+        7,
+        13
+      ],
+      "USDINR_otc": [
+        3,
+        3
+      ],
+      "USDPKR_otc": [
+        5,
+        11
+      ],
+      "WIFUSD_otc": [
+        2,
+        8
+      ],
+      "XRPUSD_otc": [
+        2,
+        6
+      ],
+      "ZECUSD_otc": [
+        5,
+        11
+      ]
+    }
+  },
+  {
+    "direction": "put",
+    "predicates": [
+      "body_ge_0p3",
+      "psar_bull",
+      "run_down_ge2"
+    ],
+    "global_trades": 282,
+    "global_wins": 140,
+    "win_rate": 0.49645390070921985,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        12
+      ],
+      "AUDUSD_otc": [
+        4,
+        7
+      ],
+      "AVAUSD_otc": [
+        4,
+        11
+      ],
+      "BRLUSD_otc": [
+        9,
+        14
+      ],
+      "BTCUSD_otc": [
+        4,
+        10
+      ],
+      "DOGUSD_otc": [
+        5,
+        7
+      ],
+      "ETHUSD_otc": [
+        9,
+        16
+      ],
+      "EURGBP_otc": [
+        7,
+        14
+      ],
+      "EURUSD_otc": [
+        7,
+        11
+      ],
+      "FLOUSD_otc": [
+        3,
+        8
+      ],
+      "GBPAUD_otc": [
+        3,
+        12
+      ],
+      "HMSUSD_otc": [
+        4,
+        7
+      ],
+      "LINUSD_otc": [
+        6,
+        8
+      ],
+      "LTCUSD_otc": [
+        4,
+        14
+      ],
+      "MANUSD_otc": [
+        3,
+        9
+      ],
+      "MELUSD_otc": [
+        4,
+        10
+      ],
+      "NOTUSD_otc": [
+        3,
+        5
+      ],
+      "PEPUSD_otc": [
+        6,
+        9
+      ],
+      "SHIUSD_otc": [
+        2,
+        6
+      ],
+      "SOLUSD_otc": [
+        2,
+        8
+      ],
+      "TIAUSD_otc": [
+        6,
+        11
+      ],
+      "TRUUSD_otc": [
+        6,
+        11
+      ],
+      "TRXUSD_otc": [
+        6,
+        10
+      ],
+      "USDARS_otc": [
+        7,
+        13
+      ],
+      "USDINR_otc": [
+        3,
+        3
+      ],
+      "USDPKR_otc": [
+        5,
+        11
+      ],
+      "WIFUSD_otc": [
+        2,
+        8
+      ],
+      "XRPUSD_otc": [
+        2,
+        6
+      ],
+      "ZECUSD_otc": [
+        5,
+        11
+      ]
+    }
+  },
+  {
+    "direction": "put",
+    "predicates": [
+      "psar_bull",
+      "run_down_ge2",
+      "body_ge_0p2"
+    ],
+    "global_trades": 327,
+    "global_wins": 161,
+    "win_rate": 0.4923547400611621,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        15
+      ],
+      "AUDUSD_otc": [
+        5,
+        8
+      ],
+      "AVAUSD_otc": [
+        4,
+        14
+      ],
+      "BRLUSD_otc": [
+        10,
+        15
+      ],
+      "BTCUSD_otc": [
+        5,
+        12
+      ],
+      "DOGUSD_otc": [
+        5,
+        7
+      ],
+      "ETHUSD_otc": [
+        10,
+        18
+      ],
+      "EURGBP_otc": [
+        8,
+        15
+      ],
+      "EURUSD_otc": [
+        7,
+        11
+      ],
+      "FLOUSD_otc": [
+        3,
+        10
+      ],
+      "GBPAUD_otc": [
+        5,
+        15
+      ],
+      "HMSUSD_otc": [
+        4,
+        8
+      ],
+      "LINUSD_otc": [
+        8,
+        10
+      ],
+      "LTCUSD_otc": [
+        6,
+        17
+      ],
+      "MANUSD_otc": [
+        4,
+        13
+      ],
+      "MELUSD_otc": [
+        4,
+        10
+      ],
+      "NOTUSD_otc": [
+        3,
+        5
+      ],
+      "PEPUSD_otc": [
+        9,
+        14
+      ],
+      "SHIUSD_otc": [
+        2,
+        6
+      ],
+      "SOLUSD_otc": [
+        2,
+        8
+      ],
+      "TIAUSD_otc": [
+        7,
+        12
+      ],
+      "TRUUSD_otc": [
+        6,
+        13
+      ],
+      "TRXUSD_otc": [
+        7,
+        12
+      ],
+      "USDARS_otc": [
+        7,
+        13
+      ],
+      "USDINR_otc": [
+        4,
+        7
+      ],
+      "USDPKR_otc": [
+        7,
+        13
+      ],
+      "WIFUSD_otc": [
+        3,
+        9
+      ],
+      "XRPUSD_otc": [
+        2,
+        6
+      ],
+      "ZECUSD_otc": [
+        5,
+        11
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "body_ge_0p2",
+      "psar_flip_recent",
+      "psar_bear"
+    ],
+    "global_trades": 266,
+    "global_wins": 130,
+    "win_rate": 0.48872180451127817,
+    "per_asset": {
+      "ATOUSD_otc": [
+        8,
+        10
+      ],
+      "AUDUSD_otc": [
+        0,
+        7
+      ],
+      "AVAUSD_otc": [
+        3,
+        7
+      ],
+      "BRLUSD_otc": [
+        8,
+        9
+      ],
+      "BTCUSD_otc": [
+        3,
+        10
+      ],
+      "DOGUSD_otc": [
+        3,
+        9
+      ],
+      "ETHUSD_otc": [
+        5,
+        9
+      ],
+      "EURGBP_otc": [
+        7,
+        10
+      ],
+      "EURUSD_otc": [
+        7,
+        12
+      ],
+      "FLOUSD_otc": [
+        5,
+        11
+      ],
+      "GBPAUD_otc": [
+        2,
+        8
+      ],
+      "HMSUSD_otc": [
+        6,
+        9
+      ],
+      "LINUSD_otc": [
+        7,
+        11
+      ],
+      "LTCUSD_otc": [
+        3,
+        6
+      ],
+      "MANUSD_otc": [
+        4,
+        9
+      ],
+      "MELUSD_otc": [
+        4,
+        8
+      ],
+      "NOTUSD_otc": [
+        4,
+        8
+      ],
+      "PEPUSD_otc": [
+        6,
+        9
+      ],
+      "SHIUSD_otc": [
+        5,
+        10
+      ],
+      "SOLUSD_otc": [
+        3,
+        8
+      ],
+      "TIAUSD_otc": [
+        4,
+        8
+      ],
+      "TRUUSD_otc": [
+        3,
+        10
+      ],
+      "TRXUSD_otc": [
+        5,
+        9
+      ],
+      "USDARS_otc": [
+        2,
+        9
+      ],
+      "USDINR_otc": [
+        4,
+        11
+      ],
+      "USDPKR_otc": [
+        3,
+        9
+      ],
+      "WIFUSD_otc": [
+        4,
+        8
+      ],
+      "XRPUSD_otc": [
+        3,
+        9
+      ],
+      "ZECUSD_otc": [
+        9,
+        13
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "psar_bear",
+      "psar_flip_recent",
+      "body_ge_0p2"
+    ],
+    "global_trades": 266,
+    "global_wins": 130,
+    "win_rate": 0.48872180451127817,
+    "per_asset": {
+      "ATOUSD_otc": [
+        8,
+        10
+      ],
+      "AUDUSD_otc": [
+        0,
+        7
+      ],
+      "AVAUSD_otc": [
+        3,
+        7
+      ],
+      "BRLUSD_otc": [
+        8,
+        9
+      ],
+      "BTCUSD_otc": [
+        3,
+        10
+      ],
+      "DOGUSD_otc": [
+        3,
+        9
+      ],
+      "ETHUSD_otc": [
+        5,
+        9
+      ],
+      "EURGBP_otc": [
+        7,
+        10
+      ],
+      "EURUSD_otc": [
+        7,
+        12
+      ],
+      "FLOUSD_otc": [
+        5,
+        11
+      ],
+      "GBPAUD_otc": [
+        2,
+        8
+      ],
+      "HMSUSD_otc": [
+        6,
+        9
+      ],
+      "LINUSD_otc": [
+        7,
+        11
+      ],
+      "LTCUSD_otc": [
+        3,
+        6
+      ],
+      "MANUSD_otc": [
+        4,
+        9
+      ],
+      "MELUSD_otc": [
+        4,
+        8
+      ],
+      "NOTUSD_otc": [
+        4,
+        8
+      ],
+      "PEPUSD_otc": [
+        6,
+        9
+      ],
+      "SHIUSD_otc": [
+        5,
+        10
+      ],
+      "SOLUSD_otc": [
+        3,
+        8
+      ],
+      "TIAUSD_otc": [
+        4,
+        8
+      ],
+      "TRUUSD_otc": [
+        3,
+        10
+      ],
+      "TRXUSD_otc": [
+        5,
+        9
+      ],
+      "USDARS_otc": [
+        2,
+        9
+      ],
+      "USDINR_otc": [
+        4,
+        11
+      ],
+      "USDPKR_otc": [
+        3,
+        9
+      ],
+      "WIFUSD_otc": [
+        4,
+        8
+      ],
+      "XRPUSD_otc": [
+        3,
+        9
+      ],
+      "ZECUSD_otc": [
+        9,
+        13
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "body_ge_0p2",
+      "psar_bear",
+      "psar_flip_recent"
+    ],
+    "global_trades": 266,
+    "global_wins": 130,
+    "win_rate": 0.48872180451127817,
+    "per_asset": {
+      "ATOUSD_otc": [
+        8,
+        10
+      ],
+      "AUDUSD_otc": [
+        0,
+        7
+      ],
+      "AVAUSD_otc": [
+        3,
+        7
+      ],
+      "BRLUSD_otc": [
+        8,
+        9
+      ],
+      "BTCUSD_otc": [
+        3,
+        10
+      ],
+      "DOGUSD_otc": [
+        3,
+        9
+      ],
+      "ETHUSD_otc": [
+        5,
+        9
+      ],
+      "EURGBP_otc": [
+        7,
+        10
+      ],
+      "EURUSD_otc": [
+        7,
+        12
+      ],
+      "FLOUSD_otc": [
+        5,
+        11
+      ],
+      "GBPAUD_otc": [
+        2,
+        8
+      ],
+      "HMSUSD_otc": [
+        6,
+        9
+      ],
+      "LINUSD_otc": [
+        7,
+        11
+      ],
+      "LTCUSD_otc": [
+        3,
+        6
+      ],
+      "MANUSD_otc": [
+        4,
+        9
+      ],
+      "MELUSD_otc": [
+        4,
+        8
+      ],
+      "NOTUSD_otc": [
+        4,
+        8
+      ],
+      "PEPUSD_otc": [
+        6,
+        9
+      ],
+      "SHIUSD_otc": [
+        5,
+        10
+      ],
+      "SOLUSD_otc": [
+        3,
+        8
+      ],
+      "TIAUSD_otc": [
+        4,
+        8
+      ],
+      "TRUUSD_otc": [
+        3,
+        10
+      ],
+      "TRXUSD_otc": [
+        5,
+        9
+      ],
+      "USDARS_otc": [
+        2,
+        9
+      ],
+      "USDINR_otc": [
+        4,
+        11
+      ],
+      "USDPKR_otc": [
+        3,
+        9
+      ],
+      "WIFUSD_otc": [
+        4,
+        8
+      ],
+      "XRPUSD_otc": [
+        3,
+        9
+      ],
+      "ZECUSD_otc": [
+        9,
+        13
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2",
+      "psar_bear"
+    ],
+    "global_trades": 684,
+    "global_wins": 331,
+    "win_rate": 0.48391812865497075,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        10
+      ],
+      "AUDUSD_otc": [
+        19,
+        42
+      ],
+      "AVAUSD_otc": [
+        15,
+        28
+      ],
+      "BRLUSD_otc": [
+        4,
+        4
+      ],
+      "BTCUSD_otc": [
+        11,
+        23
+      ],
+      "DOGUSD_otc": [
+        10,
+        28
+      ],
+      "ETHUSD_otc": [
+        16,
+        33
+      ],
+      "EURGBP_otc": [
+        8,
+        19
+      ],
+      "EURUSD_otc": [
+        15,
+        37
+      ],
+      "FLOUSD_otc": [
+        17,
+        37
+      ],
+      "GBPAUD_otc": [
+        14,
+        25
+      ],
+      "HMSUSD_otc": [
+        16,
+        28
+      ],
+      "LINUSD_otc": [
+        8,
+        14
+      ],
+      "LTCUSD_otc": [
+        4,
+        5
+      ],
+      "MANUSD_otc": [
+        4,
+        5
+      ],
+      "MELUSD_otc": [
+        11,
+        25
+      ],
+      "NOTUSD_otc": [
+        19,
+        42
+      ],
+      "PEPUSD_otc": [
+        16,
+        32
+      ],
+      "SHIUSD_otc": [
+        13,
+        25
+      ],
+      "SOLUSD_otc": [
+        7,
+        10
+      ],
+      "TIAUSD_otc": [
+        12,
+        24
+      ],
+      "TRXUSD_otc": [
+        11,
+        26
+      ],
+      "USDARS_otc": [
+        9,
+        17
+      ],
+      "USDINR_otc": [
+        10,
+        23
+      ],
+      "USDPKR_otc": [
+        16,
+        43
+      ],
+      "WIFUSD_otc": [
+        20,
+        47
+      ],
+      "XRPUSD_otc": [
+        14,
+        26
+      ],
+      "ZECUSD_otc": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "psar_bear",
+      "run_down_ge2",
+      "ema_below"
+    ],
+    "global_trades": 684,
+    "global_wins": 331,
+    "win_rate": 0.48391812865497075,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        10
+      ],
+      "AUDUSD_otc": [
+        19,
+        42
+      ],
+      "AVAUSD_otc": [
+        15,
+        28
+      ],
+      "BRLUSD_otc": [
+        4,
+        4
+      ],
+      "BTCUSD_otc": [
+        11,
+        23
+      ],
+      "DOGUSD_otc": [
+        10,
+        28
+      ],
+      "ETHUSD_otc": [
+        16,
+        33
+      ],
+      "EURGBP_otc": [
+        8,
+        19
+      ],
+      "EURUSD_otc": [
+        15,
+        37
+      ],
+      "FLOUSD_otc": [
+        17,
+        37
+      ],
+      "GBPAUD_otc": [
+        14,
+        25
+      ],
+      "HMSUSD_otc": [
+        16,
+        28
+      ],
+      "LINUSD_otc": [
+        8,
+        14
+      ],
+      "LTCUSD_otc": [
+        4,
+        5
+      ],
+      "MANUSD_otc": [
+        4,
+        5
+      ],
+      "MELUSD_otc": [
+        11,
+        25
+      ],
+      "NOTUSD_otc": [
+        19,
+        42
+      ],
+      "PEPUSD_otc": [
+        16,
+        32
+      ],
+      "SHIUSD_otc": [
+        13,
+        25
+      ],
+      "SOLUSD_otc": [
+        7,
+        10
+      ],
+      "TIAUSD_otc": [
+        12,
+        24
+      ],
+      "TRXUSD_otc": [
+        11,
+        26
+      ],
+      "USDARS_otc": [
+        9,
+        17
+      ],
+      "USDINR_otc": [
+        10,
+        23
+      ],
+      "USDPKR_otc": [
+        16,
+        43
+      ],
+      "WIFUSD_otc": [
+        20,
+        47
+      ],
+      "XRPUSD_otc": [
+        14,
+        26
+      ],
+      "ZECUSD_otc": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2"
+    ],
+    "global_trades": 874,
+    "global_wins": 422,
+    "win_rate": 0.482837528604119,
+    "per_asset": {
+      "ATOUSD_otc": [
+        11,
+        14
+      ],
+      "AUDUSD_otc": [
+        21,
+        52
+      ],
+      "AVAUSD_otc": [
+        22,
+        40
+      ],
+      "BRLUSD_otc": [
+        8,
+        11
+      ],
+      "BTCUSD_otc": [
+        18,
+        34
+      ],
+      "DOGUSD_otc": [
+        10,
+        32
+      ],
+      "ETHUSD_otc": [
+        23,
+        47
+      ],
+      "EURGBP_otc": [
+        10,
+        22
+      ],
+      "EURUSD_otc": [
+        19,
+        45
+      ],
+      "FLOUSD_otc": [
+        21,
+        45
+      ],
+      "GBPAUD_otc": [
+        20,
+        37
+      ],
+      "HMSUSD_otc": [
+        18,
+        31
+      ],
+      "LINUSD_otc": [
+        9,
+        17
+      ],
+      "LTCUSD_otc": [
+        5,
+        6
+      ],
+      "MANUSD_otc": [
+        8,
+        10
+      ],
+      "MELUSD_otc": [
+        13,
+        29
+      ],
+      "NOTUSD_otc": [
+        19,
+        44
+      ],
+      "PEPUSD_otc": [
+        18,
+        41
+      ],
+      "SHIUSD_otc": [
+        15,
+        31
+      ],
+      "SOLUSD_otc": [
+        12,
+        15
+      ],
+      "TIAUSD_otc": [
+        14,
+        30
+      ],
+      "TRXUSD_otc": [
+        14,
+        32
+      ],
+      "USDARS_otc": [
+        15,
+        28
+      ],
+      "USDINR_otc": [
+        13,
+        31
+      ],
+      "USDPKR_otc": [
+        22,
+        55
+      ],
+      "WIFUSD_otc": [
+        25,
+        54
+      ],
+      "XRPUSD_otc": [
+        16,
+        33
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2",
+      "ema_dist_ge_0p0"
+    ],
+    "global_trades": 874,
+    "global_wins": 422,
+    "win_rate": 0.482837528604119,
+    "per_asset": {
+      "ATOUSD_otc": [
+        11,
+        14
+      ],
+      "AUDUSD_otc": [
+        21,
+        52
+      ],
+      "AVAUSD_otc": [
+        22,
+        40
+      ],
+      "BRLUSD_otc": [
+        8,
+        11
+      ],
+      "BTCUSD_otc": [
+        18,
+        34
+      ],
+      "DOGUSD_otc": [
+        10,
+        32
+      ],
+      "ETHUSD_otc": [
+        23,
+        47
+      ],
+      "EURGBP_otc": [
+        10,
+        22
+      ],
+      "EURUSD_otc": [
+        19,
+        45
+      ],
+      "FLOUSD_otc": [
+        21,
+        45
+      ],
+      "GBPAUD_otc": [
+        20,
+        37
+      ],
+      "HMSUSD_otc": [
+        18,
+        31
+      ],
+      "LINUSD_otc": [
+        9,
+        17
+      ],
+      "LTCUSD_otc": [
+        5,
+        6
+      ],
+      "MANUSD_otc": [
+        8,
+        10
+      ],
+      "MELUSD_otc": [
+        13,
+        29
+      ],
+      "NOTUSD_otc": [
+        19,
+        44
+      ],
+      "PEPUSD_otc": [
+        18,
+        41
+      ],
+      "SHIUSD_otc": [
+        15,
+        31
+      ],
+      "SOLUSD_otc": [
+        12,
+        15
+      ],
+      "TIAUSD_otc": [
+        14,
+        30
+      ],
+      "TRXUSD_otc": [
+        14,
+        32
+      ],
+      "USDARS_otc": [
+        15,
+        28
+      ],
+      "USDINR_otc": [
+        13,
+        31
+      ],
+      "USDPKR_otc": [
+        22,
+        55
+      ],
+      "WIFUSD_otc": [
+        25,
+        54
+      ],
+      "XRPUSD_otc": [
+        16,
+        33
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_dist_ge_0p0",
+      "run_down_ge2",
+      "ema_below"
+    ],
+    "global_trades": 874,
+    "global_wins": 422,
+    "win_rate": 0.482837528604119,
+    "per_asset": {
+      "ATOUSD_otc": [
+        11,
+        14
+      ],
+      "AUDUSD_otc": [
+        21,
+        52
+      ],
+      "AVAUSD_otc": [
+        22,
+        40
+      ],
+      "BRLUSD_otc": [
+        8,
+        11
+      ],
+      "BTCUSD_otc": [
+        18,
+        34
+      ],
+      "DOGUSD_otc": [
+        10,
+        32
+      ],
+      "ETHUSD_otc": [
+        23,
+        47
+      ],
+      "EURGBP_otc": [
+        10,
+        22
+      ],
+      "EURUSD_otc": [
+        19,
+        45
+      ],
+      "FLOUSD_otc": [
+        21,
+        45
+      ],
+      "GBPAUD_otc": [
+        20,
+        37
+      ],
+      "HMSUSD_otc": [
+        18,
+        31
+      ],
+      "LINUSD_otc": [
+        9,
+        17
+      ],
+      "LTCUSD_otc": [
+        5,
+        6
+      ],
+      "MANUSD_otc": [
+        8,
+        10
+      ],
+      "MELUSD_otc": [
+        13,
+        29
+      ],
+      "NOTUSD_otc": [
+        19,
+        44
+      ],
+      "PEPUSD_otc": [
+        18,
+        41
+      ],
+      "SHIUSD_otc": [
+        15,
+        31
+      ],
+      "SOLUSD_otc": [
+        12,
+        15
+      ],
+      "TIAUSD_otc": [
+        14,
+        30
+      ],
+      "TRXUSD_otc": [
+        14,
+        32
+      ],
+      "USDARS_otc": [
+        15,
+        28
+      ],
+      "USDINR_otc": [
+        13,
+        31
+      ],
+      "USDPKR_otc": [
+        22,
+        55
+      ],
+      "WIFUSD_otc": [
+        25,
+        54
+      ],
+      "XRPUSD_otc": [
+        16,
+        33
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "psar_flip_recent"
+    ],
+    "global_trades": 337,
+    "global_wins": 162,
+    "win_rate": 0.4807121661721068,
+    "per_asset": {
+      "ATOUSD_otc": [
+        7,
+        10
+      ],
+      "AUDUSD_otc": [
+        3,
+        18
+      ],
+      "AVAUSD_otc": [
+        8,
+        16
+      ],
+      "BRLUSD_otc": [
+        4,
+        10
+      ],
+      "BTCUSD_otc": [
+        5,
+        12
+      ],
+      "DOGUSD_otc": [
+        6,
+        12
+      ],
+      "ETHUSD_otc": [
+        7,
+        15
+      ],
+      "EURGBP_otc": [
+        4,
+        8
+      ],
+      "EURUSD_otc": [
+        7,
+        16
+      ],
+      "FLOUSD_otc": [
+        7,
+        20
+      ],
+      "GBPAUD_otc": [
+        3,
+        14
+      ],
+      "HMSUSD_otc": [
+        8,
+        13
+      ],
+      "LINUSD_otc": [
+        4,
+        10
+      ],
+      "LTCUSD_otc": [
+        2,
+        4
+      ],
+      "MANUSD_otc": [
+        4,
+        6
+      ],
+      "MELUSD_otc": [
+        7,
+        11
+      ],
+      "NOTUSD_otc": [
+        8,
+        11
+      ],
+      "PEPUSD_otc": [
+        12,
+        16
+      ],
+      "SHIUSD_otc": [
+        5,
+        11
+      ],
+      "SOLUSD_otc": [
+        4,
+        7
+      ],
+      "TIAUSD_otc": [
+        4,
+        10
+      ],
+      "TRXUSD_otc": [
+        6,
+        11
+      ],
+      "USDARS_otc": [
+        5,
+        11
+      ],
+      "USDINR_otc": [
+        4,
+        13
+      ],
+      "USDPKR_otc": [
+        7,
+        15
+      ],
+      "WIFUSD_otc": [
+        10,
+        18
+      ],
+      "XRPUSD_otc": [
+        7,
+        14
+      ],
+      "ZECUSD_otc": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "psar_flip_recent",
+      "ema_dist_ge_0p0"
+    ],
+    "global_trades": 337,
+    "global_wins": 162,
+    "win_rate": 0.4807121661721068,
+    "per_asset": {
+      "ATOUSD_otc": [
+        7,
+        10
+      ],
+      "AUDUSD_otc": [
+        3,
+        18
+      ],
+      "AVAUSD_otc": [
+        8,
+        16
+      ],
+      "BRLUSD_otc": [
+        4,
+        10
+      ],
+      "BTCUSD_otc": [
+        5,
+        12
+      ],
+      "DOGUSD_otc": [
+        6,
+        12
+      ],
+      "ETHUSD_otc": [
+        7,
+        15
+      ],
+      "EURGBP_otc": [
+        4,
+        8
+      ],
+      "EURUSD_otc": [
+        7,
+        16
+      ],
+      "FLOUSD_otc": [
+        7,
+        20
+      ],
+      "GBPAUD_otc": [
+        3,
+        14
+      ],
+      "HMSUSD_otc": [
+        8,
+        13
+      ],
+      "LINUSD_otc": [
+        4,
+        10
+      ],
+      "LTCUSD_otc": [
+        2,
+        4
+      ],
+      "MANUSD_otc": [
+        4,
+        6
+      ],
+      "MELUSD_otc": [
+        7,
+        11
+      ],
+      "NOTUSD_otc": [
+        8,
+        11
+      ],
+      "PEPUSD_otc": [
+        12,
+        16
+      ],
+      "SHIUSD_otc": [
+        5,
+        11
+      ],
+      "SOLUSD_otc": [
+        4,
+        7
+      ],
+      "TIAUSD_otc": [
+        4,
+        10
+      ],
+      "TRXUSD_otc": [
+        6,
+        11
+      ],
+      "USDARS_otc": [
+        5,
+        11
+      ],
+      "USDINR_otc": [
+        4,
+        13
+      ],
+      "USDPKR_otc": [
+        7,
+        15
+      ],
+      "WIFUSD_otc": [
+        10,
+        18
+      ],
+      "XRPUSD_otc": [
+        7,
+        14
+      ],
+      "ZECUSD_otc": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2",
+      "body_ge_0p4"
+    ],
+    "global_trades": 577,
+    "global_wins": 277,
+    "win_rate": 0.4800693240901213,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        11
+      ],
+      "AUDUSD_otc": [
+        14,
+        35
+      ],
+      "AVAUSD_otc": [
+        16,
+        28
+      ],
+      "BRLUSD_otc": [
+        4,
+        7
+      ],
+      "BTCUSD_otc": [
+        12,
+        20
+      ],
+      "DOGUSD_otc": [
+        6,
+        21
+      ],
+      "ETHUSD_otc": [
+        17,
+        34
+      ],
+      "EURGBP_otc": [
+        5,
+        13
+      ],
+      "EURUSD_otc": [
+        12,
+        30
+      ],
+      "FLOUSD_otc": [
+        17,
+        33
+      ],
+      "GBPAUD_otc": [
+        13,
+        21
+      ],
+      "HMSUSD_otc": [
+        13,
+        22
+      ],
+      "LINUSD_otc": [
+        5,
+        8
+      ],
+      "LTCUSD_otc": [
+        4,
+        5
+      ],
+      "MANUSD_otc": [
+        7,
+        8
+      ],
+      "MELUSD_otc": [
+        8,
+        23
+      ],
+      "NOTUSD_otc": [
+        7,
+        25
+      ],
+      "PEPUSD_otc": [
+        13,
+        23
+      ],
+      "SHIUSD_otc": [
+        10,
+        23
+      ],
+      "SOLUSD_otc": [
+        5,
+        7
+      ],
+      "TIAUSD_otc": [
+        12,
+        23
+      ],
+      "TRXUSD_otc": [
+        9,
+        19
+      ],
+      "USDARS_otc": [
+        8,
+        17
+      ],
+      "USDINR_otc": [
+        6,
+        18
+      ],
+      "USDPKR_otc": [
+        16,
+        38
+      ],
+      "WIFUSD_otc": [
+        16,
+        37
+      ],
+      "XRPUSD_otc": [
+        10,
+        20
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2",
+      "body_ge_0p3"
+    ],
+    "global_trades": 661,
+    "global_wins": 317,
+    "win_rate": 0.4795763993948563,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        12
+      ],
+      "AUDUSD_otc": [
+        14,
+        38
+      ],
+      "AVAUSD_otc": [
+        18,
+        32
+      ],
+      "BRLUSD_otc": [
+        7,
+        10
+      ],
+      "BTCUSD_otc": [
+        14,
+        23
+      ],
+      "DOGUSD_otc": [
+        6,
+        22
+      ],
+      "ETHUSD_otc": [
+        18,
+        37
+      ],
+      "EURGBP_otc": [
+        5,
+        14
+      ],
+      "EURUSD_otc": [
+        15,
+        36
+      ],
+      "FLOUSD_otc": [
+        19,
+        35
+      ],
+      "GBPAUD_otc": [
+        15,
+        25
+      ],
+      "HMSUSD_otc": [
+        13,
+        24
+      ],
+      "LINUSD_otc": [
+        7,
+        11
+      ],
+      "LTCUSD_otc": [
+        4,
+        5
+      ],
+      "MANUSD_otc": [
+        7,
+        8
+      ],
+      "MELUSD_otc": [
+        11,
+        27
+      ],
+      "NOTUSD_otc": [
+        12,
+        33
+      ],
+      "PEPUSD_otc": [
+        16,
+        31
+      ],
+      "SHIUSD_otc": [
+        10,
+        24
+      ],
+      "SOLUSD_otc": [
+        9,
+        12
+      ],
+      "TIAUSD_otc": [
+        12,
+        23
+      ],
+      "TRXUSD_otc": [
+        11,
+        25
+      ],
+      "USDARS_otc": [
+        10,
+        21
+      ],
+      "USDINR_otc": [
+        6,
+        19
+      ],
+      "USDPKR_otc": [
+        18,
+        45
+      ],
+      "WIFUSD_otc": [
+        17,
+        39
+      ],
+      "XRPUSD_otc": [
+        11,
+        22
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2",
+      "body_ge_0p2"
+    ],
+    "global_trades": 741,
+    "global_wins": 355,
+    "win_rate": 0.47908232118758437,
+    "per_asset": {
+      "ATOUSD_otc": [
+        11,
+        14
+      ],
+      "AUDUSD_otc": [
+        17,
+        44
+      ],
+      "AVAUSD_otc": [
+        21,
+        35
+      ],
+      "BRLUSD_otc": [
+        7,
+        10
+      ],
+      "BTCUSD_otc": [
+        14,
+        25
+      ],
+      "DOGUSD_otc": [
+        8,
+        27
+      ],
+      "ETHUSD_otc": [
+        18,
+        39
+      ],
+      "EURGBP_otc": [
+        8,
+        18
+      ],
+      "EURUSD_otc": [
+        18,
+        42
+      ],
+      "FLOUSD_otc": [
+        21,
+        39
+      ],
+      "GBPAUD_otc": [
+        18,
+        32
+      ],
+      "HMSUSD_otc": [
+        16,
+        28
+      ],
+      "LINUSD_otc": [
+        7,
+        13
+      ],
+      "LTCUSD_otc": [
+        5,
+        6
+      ],
+      "MANUSD_otc": [
+        8,
+        9
+      ],
+      "MELUSD_otc": [
+        11,
+        27
+      ],
+      "NOTUSD_otc": [
+        12,
+        36
+      ],
+      "PEPUSD_otc": [
+        17,
+        38
+      ],
+      "SHIUSD_otc": [
+        14,
+        28
+      ],
+      "SOLUSD_otc": [
+        9,
+        12
+      ],
+      "TIAUSD_otc": [
+        12,
+        26
+      ],
+      "TRXUSD_otc": [
+        13,
+        28
+      ],
+      "USDARS_otc": [
+        10,
+        22
+      ],
+      "USDINR_otc": [
+        8,
+        23
+      ],
+      "USDPKR_otc": [
+        19,
+        47
+      ],
+      "WIFUSD_otc": [
+        19,
+        43
+      ],
+      "XRPUSD_otc": [
+        11,
+        22
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "body_ge_0p2",
+      "run_down_ge2",
+      "ema_below"
+    ],
+    "global_trades": 741,
+    "global_wins": 355,
+    "win_rate": 0.47908232118758437,
+    "per_asset": {
+      "ATOUSD_otc": [
+        11,
+        14
+      ],
+      "AUDUSD_otc": [
+        17,
+        44
+      ],
+      "AVAUSD_otc": [
+        21,
+        35
+      ],
+      "BRLUSD_otc": [
+        7,
+        10
+      ],
+      "BTCUSD_otc": [
+        14,
+        25
+      ],
+      "DOGUSD_otc": [
+        8,
+        27
+      ],
+      "ETHUSD_otc": [
+        18,
+        39
+      ],
+      "EURGBP_otc": [
+        8,
+        18
+      ],
+      "EURUSD_otc": [
+        18,
+        42
+      ],
+      "FLOUSD_otc": [
+        21,
+        39
+      ],
+      "GBPAUD_otc": [
+        18,
+        32
+      ],
+      "HMSUSD_otc": [
+        16,
+        28
+      ],
+      "LINUSD_otc": [
+        7,
+        13
+      ],
+      "LTCUSD_otc": [
+        5,
+        6
+      ],
+      "MANUSD_otc": [
+        8,
+        9
+      ],
+      "MELUSD_otc": [
+        11,
+        27
+      ],
+      "NOTUSD_otc": [
+        12,
+        36
+      ],
+      "PEPUSD_otc": [
+        17,
+        38
+      ],
+      "SHIUSD_otc": [
+        14,
+        28
+      ],
+      "SOLUSD_otc": [
+        9,
+        12
+      ],
+      "TIAUSD_otc": [
+        12,
+        26
+      ],
+      "TRXUSD_otc": [
+        13,
+        28
+      ],
+      "USDARS_otc": [
+        10,
+        22
+      ],
+      "USDINR_otc": [
+        8,
+        23
+      ],
+      "USDPKR_otc": [
+        19,
+        47
+      ],
+      "WIFUSD_otc": [
+        19,
+        43
+      ],
+      "XRPUSD_otc": [
+        11,
+        22
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "body_ge_0p2",
+      "ema_below",
+      "run_down_ge2"
+    ],
+    "global_trades": 741,
+    "global_wins": 355,
+    "win_rate": 0.47908232118758437,
+    "per_asset": {
+      "ATOUSD_otc": [
+        11,
+        14
+      ],
+      "AUDUSD_otc": [
+        17,
+        44
+      ],
+      "AVAUSD_otc": [
+        21,
+        35
+      ],
+      "BRLUSD_otc": [
+        7,
+        10
+      ],
+      "BTCUSD_otc": [
+        14,
+        25
+      ],
+      "DOGUSD_otc": [
+        8,
+        27
+      ],
+      "ETHUSD_otc": [
+        18,
+        39
+      ],
+      "EURGBP_otc": [
+        8,
+        18
+      ],
+      "EURUSD_otc": [
+        18,
+        42
+      ],
+      "FLOUSD_otc": [
+        21,
+        39
+      ],
+      "GBPAUD_otc": [
+        18,
+        32
+      ],
+      "HMSUSD_otc": [
+        16,
+        28
+      ],
+      "LINUSD_otc": [
+        7,
+        13
+      ],
+      "LTCUSD_otc": [
+        5,
+        6
+      ],
+      "MANUSD_otc": [
+        8,
+        9
+      ],
+      "MELUSD_otc": [
+        11,
+        27
+      ],
+      "NOTUSD_otc": [
+        12,
+        36
+      ],
+      "PEPUSD_otc": [
+        17,
+        38
+      ],
+      "SHIUSD_otc": [
+        14,
+        28
+      ],
+      "SOLUSD_otc": [
+        9,
+        12
+      ],
+      "TIAUSD_otc": [
+        12,
+        26
+      ],
+      "TRXUSD_otc": [
+        13,
+        28
+      ],
+      "USDARS_otc": [
+        10,
+        22
+      ],
+      "USDINR_otc": [
+        8,
+        23
+      ],
+      "USDPKR_otc": [
+        19,
+        47
+      ],
+      "WIFUSD_otc": [
+        19,
+        43
+      ],
+      "XRPUSD_otc": [
+        11,
+        22
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_below",
+      "run_down_ge2",
+      "body_ge_0p35"
+    ],
+    "global_trades": 613,
+    "global_wins": 292,
+    "win_rate": 0.4763458401305057,
+    "per_asset": {
+      "ATOUSD_otc": [
+        9,
+        12
+      ],
+      "AUDUSD_otc": [
+        14,
+        36
+      ],
+      "AVAUSD_otc": [
+        17,
+        29
+      ],
+      "BRLUSD_otc": [
+        6,
+        9
+      ],
+      "BTCUSD_otc": [
+        12,
+        21
+      ],
+      "DOGUSD_otc": [
+        6,
+        22
+      ],
+      "ETHUSD_otc": [
+        18,
+        37
+      ],
+      "EURGBP_otc": [
+        5,
+        14
+      ],
+      "EURUSD_otc": [
+        13,
+        32
+      ],
+      "FLOUSD_otc": [
+        17,
+        33
+      ],
+      "GBPAUD_otc": [
+        14,
+        23
+      ],
+      "HMSUSD_otc": [
+        13,
+        22
+      ],
+      "LINUSD_otc": [
+        7,
+        10
+      ],
+      "LTCUSD_otc": [
+        4,
+        5
+      ],
+      "MANUSD_otc": [
+        7,
+        8
+      ],
+      "MELUSD_otc": [
+        9,
+        24
+      ],
+      "NOTUSD_otc": [
+        7,
+        26
+      ],
+      "PEPUSD_otc": [
+        13,
+        25
+      ],
+      "SHIUSD_otc": [
+        10,
+        23
+      ],
+      "SOLUSD_otc": [
+        8,
+        11
+      ],
+      "TIAUSD_otc": [
+        12,
+        23
+      ],
+      "TRXUSD_otc": [
+        9,
+        22
+      ],
+      "USDARS_otc": [
+        9,
+        20
+      ],
+      "USDINR_otc": [
+        6,
+        18
+      ],
+      "USDPKR_otc": [
+        17,
+        41
+      ],
+      "WIFUSD_otc": [
+        16,
+        38
+      ],
+      "XRPUSD_otc": [
+        11,
+        21
+      ],
+      "ZECUSD_otc": [
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "psar_bear",
+      "run_down_ge2",
+      "body_ge_0p4"
+    ],
+    "global_trades": 690,
+    "global_wins": 324,
+    "win_rate": 0.46956521739130436,
+    "per_asset": {
+      "ATOUSD_otc": [
+        13,
+        17
+      ],
+      "AUDUSD_otc": [
+        15,
+        33
+      ],
+      "AVAUSD_otc": [
+        12,
+        25
+      ],
+      "BRLUSD_otc": [
+        9,
+        10
+      ],
+      "BTCUSD_otc": [
+        10,
+        23
+      ],
+      "DOGUSD_otc": [
+        11,
+        27
+      ],
+      "ETHUSD_otc": [
+        16,
+        30
+      ],
+      "EURGBP_otc": [
+        7,
+        18
+      ],
+      "EURUSD_otc": [
+        12,
+        28
+      ],
+      "FLOUSD_otc": [
+        16,
+        30
+      ],
+      "GBPAUD_otc": [
+        13,
+        20
+      ],
+      "HMSUSD_otc": [
+        13,
+        24
+      ],
+      "LINUSD_otc": [
+        11,
+        20
+      ],
+      "LTCUSD_otc": [
+        7,
+        10
+      ],
+      "MANUSD_otc": [
+        8,
+        15
+      ],
+      "MELUSD_otc": [
+        7,
+        27
+      ],
+      "NOTUSD_otc": [
+        9,
+        29
+      ],
+      "PEPUSD_otc": [
+        13,
+        25
+      ],
+      "SHIUSD_otc": [
+        11,
+        27
+      ],
+      "SOLUSD_otc": [
+        9,
+        18
+      ],
+      "TIAUSD_otc": [
+        14,
+        27
+      ],
+      "TRUUSD_otc": [
+        10,
+        18
+      ],
+      "TRXUSD_otc": [
+        14,
+        28
+      ],
+      "USDARS_otc": [
+        9,
+        22
+      ],
+      "USDINR_otc": [
+        11,
+        26
+      ],
+      "USDPKR_otc": [
+        13,
+        37
+      ],
+      "WIFUSD_otc": [
+        13,
+        35
+      ],
+      "XRPUSD_otc": [
+        10,
+        29
+      ],
+      "ZECUSD_otc": [
+        8,
+        12
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "psar_bear",
+      "run_down_ge2"
+    ],
+    "global_trades": 1016,
+    "global_wins": 477,
+    "win_rate": 0.46948818897637795,
+    "per_asset": {
+      "ATOUSD_otc": [
+        14,
+        18
+      ],
+      "AUDUSD_otc": [
+        21,
+        48
+      ],
+      "AVAUSD_otc": [
+        17,
+        33
+      ],
+      "BRLUSD_otc": [
+        13,
+        16
+      ],
+      "BTCUSD_otc": [
+        16,
+        37
+      ],
+      "DOGUSD_otc": [
+        15,
+        37
+      ],
+      "ETHUSD_otc": [
+        19,
+        38
+      ],
+      "EURGBP_otc": [
+        16,
+        33
+      ],
+      "EURUSD_otc": [
+        19,
+        42
+      ],
+      "FLOUSD_otc": [
+        18,
+        39
+      ],
+      "GBPAUD_otc": [
+        19,
+        33
+      ],
+      "HMSUSD_otc": [
+        17,
+        34
+      ],
+      "LINUSD_otc": [
+        16,
+        32
+      ],
+      "LTCUSD_otc": [
+        12,
+        17
+      ],
+      "MANUSD_otc": [
+        12,
+        26
+      ],
+      "MELUSD_otc": [
+        13,
+        38
+      ],
+      "NOTUSD_otc": [
+        21,
+        49
+      ],
+      "PEPUSD_otc": [
+        18,
+        41
+      ],
+      "SHIUSD_otc": [
+        16,
+        37
+      ],
+      "SOLUSD_otc": [
+        14,
+        26
+      ],
+      "TIAUSD_otc": [
+        19,
+        38
+      ],
+      "TRUUSD_otc": [
+        15,
+        29
+      ],
+      "TRXUSD_otc": [
+        19,
+        41
+      ],
+      "USDARS_otc": [
+        13,
+        32
+      ],
+      "USDINR_otc": [
+        18,
+        39
+      ],
+      "USDPKR_otc": [
+        18,
+        50
+      ],
+      "WIFUSD_otc": [
+        22,
+        52
+      ],
+      "XRPUSD_otc": [
+        17,
+        43
+      ],
+      "ZECUSD_otc": [
+        10,
+        18
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "psar_bear",
+      "run_down_ge2",
+      "ema_dist_ge_0p0"
+    ],
+    "global_trades": 1016,
+    "global_wins": 477,
+    "win_rate": 0.46948818897637795,
+    "per_asset": {
+      "ATOUSD_otc": [
+        14,
+        18
+      ],
+      "AUDUSD_otc": [
+        21,
+        48
+      ],
+      "AVAUSD_otc": [
+        17,
+        33
+      ],
+      "BRLUSD_otc": [
+        13,
+        16
+      ],
+      "BTCUSD_otc": [
+        16,
+        37
+      ],
+      "DOGUSD_otc": [
+        15,
+        37
+      ],
+      "ETHUSD_otc": [
+        19,
+        38
+      ],
+      "EURGBP_otc": [
+        16,
+        33
+      ],
+      "EURUSD_otc": [
+        19,
+        42
+      ],
+      "FLOUSD_otc": [
+        18,
+        39
+      ],
+      "GBPAUD_otc": [
+        19,
+        33
+      ],
+      "HMSUSD_otc": [
+        17,
+        34
+      ],
+      "LINUSD_otc": [
+        16,
+        32
+      ],
+      "LTCUSD_otc": [
+        12,
+        17
+      ],
+      "MANUSD_otc": [
+        12,
+        26
+      ],
+      "MELUSD_otc": [
+        13,
+        38
+      ],
+      "NOTUSD_otc": [
+        21,
+        49
+      ],
+      "PEPUSD_otc": [
+        18,
+        41
+      ],
+      "SHIUSD_otc": [
+        16,
+        37
+      ],
+      "SOLUSD_otc": [
+        14,
+        26
+      ],
+      "TIAUSD_otc": [
+        19,
+        38
+      ],
+      "TRUUSD_otc": [
+        15,
+        29
+      ],
+      "TRXUSD_otc": [
+        19,
+        41
+      ],
+      "USDARS_otc": [
+        13,
+        32
+      ],
+      "USDINR_otc": [
+        18,
+        39
+      ],
+      "USDPKR_otc": [
+        18,
+        50
+      ],
+      "WIFUSD_otc": [
+        22,
+        52
+      ],
+      "XRPUSD_otc": [
+        17,
+        43
+      ],
+      "ZECUSD_otc": [
+        10,
+        18
+      ]
+    }
+  },
+  {
+    "direction": "call",
+    "predicates": [
+      "ema_dist_ge_0p0",
+      "run_down_ge2",
+      "psar_bear"
+    ],
+    "global_trades": 1016,
+    "global_wins": 477,
+    "win_rate": 0.46948818897637795,
+    "per_asset": {
+      "ATOUSD_otc": [
+        14,
+        18
+      ],
+      "AUDUSD_otc": [
+        21,
+        48
+      ],
+      "AVAUSD_otc": [
+        17,
+        33
+      ],
+      "BRLUSD_otc": [
+        13,
+        16
+      ],
+      "BTCUSD_otc": [
+        16,
+        37
+      ],
+      "DOGUSD_otc": [
+        15,
+        37
+      ],
+      "ETHUSD_otc": [
+        19,
+        38
+      ],
+      "EURGBP_otc": [
+        16,
+        33
+      ],
+      "EURUSD_otc": [
+        19,
+        42
+      ],
+      "FLOUSD_otc": [
+        18,
+        39
+      ],
+      "GBPAUD_otc": [
+        19,
+        33
+      ],
+      "HMSUSD_otc": [
+        17,
+        34
+      ],
+      "LINUSD_otc": [
+        16,
+        32
+      ],
+      "LTCUSD_otc": [
+        12,
+        17
+      ],
+      "MANUSD_otc": [
+        12,
+        26
+      ],
+      "MELUSD_otc": [
+        13,
+        38
+      ],
+      "NOTUSD_otc": [
+        21,
+        49
+      ],
+      "PEPUSD_otc": [
+        18,
+        41
+      ],
+      "SHIUSD_otc": [
+        16,
+        37
+      ],
+      "SOLUSD_otc": [
+        14,
+        26
+      ],
+      "TIAUSD_otc": [
+        19,
+        38
+      ],
+      "TRUUSD_otc": [
+        15,
+        29
+      ],
+      "TRXUSD_otc": [
+        19,
+        41
+      ],
+      "USDARS_otc": [
+        13,
+        32
+      ],
+      "USDINR_otc": [
+        18,
+        39
+      ],
+      "USDPKR_otc": [
+        18,
+        50
+      ],
+      "WIFUSD_otc": [
+        22,
+        52
+      ],
+      "XRPUSD_otc": [
+        17,
+        43
+      ],
+      "ZECUSD_otc": [
+        10,
+        18
+      ]
+    }
+  }
+]

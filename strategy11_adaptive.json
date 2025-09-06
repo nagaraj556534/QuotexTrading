@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "completed": 11,
+  "wins": 7,
+  "recent_buy": [
+    true,
+    false,
+    false
+  ],
+  "recent_sell": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false
+  ],
+  "assets": {
+    "EURCAD_otc": {
+      "wins": 1,
+      "total": 1
+    },
+    "BRLUSD_otc": {
+      "wins": 1,
+      "total": 1
+    },
+    "DASUSD_otc": {
+      "wins": 1,
+      "total": 1
+    },
+    "XRPUSD_otc": {
+      "wins": 1,
+      "total": 1
+    },
+    "CADJPY": {
+      "wins": 1,
+      "total": 1
+    },
+    "LINUSD_otc": {
+      "wins": 1,
+      "total": 1
+    },
+    "AXP_otc": {
+      "wins": 0,
+      "total": 1
+    },
+    "FLOUSD_otc": {
+      "wins": 1,
+      "total": 1
+    },
+    "AUDUSD": {
+      "wins": 0,
+      "total": 1
+    },
+    "GBPJPY": {
+      "wins": 0,
+      "total": 1
+    },
+    "ADAUSD_otc": {
+      "wins": 0,
+      "total": 1
+    }
+  },
+  "hours": {
+    "10": {
+      "wins": 3,
+      "total": 3
+    },
+    "11": {
+      "wins": 4,
+      "total": 7
+    },
+    "12": {
+      "wins": 0,
+      "total": 1
+    }
+  },
+  "dynamic": {
+    "os": 23,
+    "ob": 73
+  }
+}

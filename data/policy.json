@@ -1,0 +1,21 @@
+{
+  "buckets": {
+    "OTC|hour:9|dow:5|s:1": {
+      "arms": {
+        "60": {
+          "wins": 2,
+          "losses": 2
+        },
+        "120": {
+          "wins": 1,
+          "losses": 0
+        },
+        "180": {
+          "wins": 0,
+          "losses": 0
+        }
+      },
+      "cooldown": 0
+    }
+  }
+}
